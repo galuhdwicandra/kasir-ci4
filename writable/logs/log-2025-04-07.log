@@ -1,0 +1,1797 @@
+DEBUG - 2025-04-07 14:19:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 14:19:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 14:19:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 14:23:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 14:23:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 14:23:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 14:23:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 14:23:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 14:30:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-04-07 14:30:12 --> Error: Class "App\Models\ModelPenjualan" not found
+[Method: GET, Route: Penjualan]
+in APPPATH\Controllers\Penjualan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-04-07 14:33:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 14:33:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 14:33:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 14:33:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-04-07 14:33:31 --> Error: Class "App\Models\ModelPenjualan" not found
+[Method: GET, Route: Penjualan]
+in APPPATH\Controllers\Penjualan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-04-07 14:34:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-04-07 14:34:21 --> Error: Class "App\Models\ModelPenjualan" not found
+[Method: GET, Route: Penjualan]
+in APPPATH\Controllers\Penjualan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-04-07 14:35:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-04-07 14:35:25 --> Error: Class "App\Models\ModelPenjualan" not found
+[Method: GET, Route: Penjualan]
+in APPPATH\Controllers\Penjualan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-04-07 14:36:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-04-07 14:36:10 --> Error: Class "App\Models\ModelPenjualan" not found
+[Method: GET, Route: Penjualan]
+in APPPATH\Controllers\Penjualan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-04-07 14:39:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-04-07 14:39:52 --> Error: Class "App\Models\ModelPenjualan" not found
+[Method: GET, Route: Penjualan]
+in APPPATH\Controllers\Penjualan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-04-07 14:42:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-04-07 14:42:16 --> Error: Class "App\Models\ModelPenjualan" not found
+[Method: GET, Route: Penjualan]
+in APPPATH\Controllers\Penjualan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-04-07 14:43:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-04-07 14:43:54 --> Error: Class "App\Models\ModelPenjualan" not found
+[Method: GET, Route: Penjualan]
+in APPPATH\Controllers\Penjualan.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-04-07 14:44:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 14:46:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 14:47:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 14:48:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 14:49:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 14:50:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 14:50:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 14:50:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 14:51:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 14:52:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 14:52:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 14:52:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 14:52:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 14:52:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 14:52:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 14:52:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 14:52:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 14:52:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 14:53:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 14:55:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 14:56:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 14:56:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:00:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:01:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:01:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:01:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:01:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:01:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:01:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:01:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:01:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:01:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:01:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:02:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:03:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:04:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:04:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:11:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:13:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:13:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:14:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:15:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:16:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:18:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:20:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:21:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:22:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:22:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:23:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:24:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:25:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:25:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:34:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:35:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:35:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:39:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:39:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:39:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:40:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:40:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:40:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:40:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:42:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:42:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:42:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:43:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:43:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:47:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:47:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:47:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:47:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:47:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:47:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:48:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:48:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:48:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:48:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:48:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:49:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:49:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:50:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:50:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:50:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:51:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:51:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:52:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:52:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:52:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:52:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:52:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:54:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:54:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:55:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:55:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:55:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 15:55:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:01:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:02:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:02:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:02:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:02:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:02:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:02:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:02:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:02:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:02:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:02:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:02:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:02:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:05:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:05:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:05:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:06:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:07:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:07:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:07:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:07:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:08:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:08:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:09:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:15:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:15:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:15:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:20:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:20:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:20:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:22:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:22:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:23:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:27:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:28:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:31:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:31:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:32:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:32:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:32:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:37:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:37:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:37:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:38:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:38:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:38:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:39:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:39:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:39:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:40:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:41:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:41:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:48:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:50:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:50:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 16:50:55 --> Cart Class Initialized
+DEBUG - 2025-04-07 16:54:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:54:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 16:54:42 --> Cart Class Initialized
+DEBUG - 2025-04-07 16:54:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:54:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 16:54:51 --> Cart Class Initialized
+DEBUG - 2025-04-07 16:54:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:55:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:55:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:55:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:55:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 16:55:57 --> Cart Class Initialized
+DEBUG - 2025-04-07 16:57:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:57:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:57:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:57:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:58:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 16:58:40 --> Cart Class Initialized
+DEBUG - 2025-04-07 16:58:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:58:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 16:58:47 --> Cart Class Initialized
+DEBUG - 2025-04-07 16:59:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:59:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 16:59:17 --> Cart Class Initialized
+DEBUG - 2025-04-07 16:59:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 16:59:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 16:59:21 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:00:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:00:35 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:02:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:02:36 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:04:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:04:32 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:05:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:05:06 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:05:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:05:55 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:06:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:06:05 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:06:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 17:06:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:06:41 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:06:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:06:41 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:06:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 17:06:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:06:54 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:06:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:06:54 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:07:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:07:51 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:08:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:08:31 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:11:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:11:02 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:14:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:14:22 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:14:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:14:23 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:14:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:14:23 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:14:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 17:14:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:14:31 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:14:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:14:32 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:14:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 17:14:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:14:50 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:14:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:14:50 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:14:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 17:15:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:15:01 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:15:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:15:01 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:15:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 17:15:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:15:07 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:15:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:15:07 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:17:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:17:31 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:17:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:17:34 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:17:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:17:35 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:17:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 17:17:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:17:40 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:17:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:17:40 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:19:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:19:13 --> Cart Class Initialized
+ERROR - 2025-04-07 17:19:13 --> Invalid product ID.  The product ID can only contain alpha-numeric characters, dashes, and underscores
+DEBUG - 2025-04-07 17:19:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:19:14 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:22:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 17:22:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:22:38 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:22:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:22:38 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:22:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:22:51 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:23:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 17:23:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:23:02 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:23:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:23:02 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:25:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:25:14 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:26:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:26:28 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:26:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 17:26:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:26:35 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:26:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:26:35 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:26:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:26:39 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:29:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:29:38 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:30:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:30:14 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:31:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:31:23 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:31:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:31:23 --> Cart Class Initialized
+ERROR - 2025-04-07 17:31:23 --> Invalid product ID.  The product ID can only contain alpha-numeric characters, dashes, and underscores
+DEBUG - 2025-04-07 17:31:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:31:23 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:31:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:31:25 --> Cart Class Initialized
+ERROR - 2025-04-07 17:31:25 --> Invalid product ID.  The product ID can only contain alpha-numeric characters, dashes, and underscores
+DEBUG - 2025-04-07 17:31:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:31:25 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:31:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:31:26 --> Cart Class Initialized
+ERROR - 2025-04-07 17:31:26 --> Invalid product ID.  The product ID can only contain alpha-numeric characters, dashes, and underscores
+DEBUG - 2025-04-07 17:31:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:31:26 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:31:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:31:26 --> Cart Class Initialized
+ERROR - 2025-04-07 17:31:26 --> Invalid product ID.  The product ID can only contain alpha-numeric characters, dashes, and underscores
+DEBUG - 2025-04-07 17:31:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:31:26 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:31:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:31:38 --> Cart Class Initialized
+ERROR - 2025-04-07 17:31:38 --> Invalid product ID.  The product ID can only contain alpha-numeric characters, dashes, and underscores
+DEBUG - 2025-04-07 17:31:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:31:38 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:31:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:31:49 --> Cart Class Initialized
+ERROR - 2025-04-07 17:31:49 --> Invalid product ID.  The product ID can only contain alpha-numeric characters, dashes, and underscores
+DEBUG - 2025-04-07 17:31:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:31:49 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:31:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:31:52 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:32:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:32:01 --> Cart Class Initialized
+ERROR - 2025-04-07 17:32:01 --> Invalid product ID.  The product ID can only contain alpha-numeric characters, dashes, and underscores
+DEBUG - 2025-04-07 17:32:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:32:01 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:33:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:33:41 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:33:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:33:43 --> Cart Class Initialized
+ERROR - 2025-04-07 17:33:43 --> Invalid product ID.  The product ID can only contain alpha-numeric characters, dashes, and underscores
+DEBUG - 2025-04-07 17:33:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:33:43 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:33:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:33:45 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:34:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:34:41 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:34:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:34:42 --> Cart Class Initialized
+ERROR - 2025-04-07 17:34:42 --> Invalid product ID.  The product ID can only contain alpha-numeric characters, dashes, and underscores
+DEBUG - 2025-04-07 17:34:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:34:43 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:34:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:34:45 --> Cart Class Initialized
+ERROR - 2025-04-07 17:34:45 --> Invalid product ID.  The product ID can only contain alpha-numeric characters, dashes, and underscores
+DEBUG - 2025-04-07 17:34:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:34:45 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:35:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:35:31 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:35:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:35:36 --> Cart Class Initialized
+ERROR - 2025-04-07 17:35:36 --> Invalid product ID.  The product ID can only contain alpha-numeric characters, dashes, and underscores
+DEBUG - 2025-04-07 17:35:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:35:36 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:35:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:35:38 --> Cart Class Initialized
+ERROR - 2025-04-07 17:35:38 --> Invalid product ID.  The product ID can only contain alpha-numeric characters, dashes, and underscores
+DEBUG - 2025-04-07 17:35:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:35:38 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:35:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:35:40 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:36:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:36:22 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:43:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:43:20 --> Cart Class Initialized
+CRITICAL - 2025-04-07 17:43:20 --> TypeError: CodeIgniter\Database\BaseBuilder::hasOperator(): Argument #1 ($str) must be of type string, int given, called in C:\xampp\htdocs\kasir-ci4\system\Database\BaseBuilder.php on line 806
+[Method: GET, Route: penjualan]
+in SYSTEMPATH\Database\BaseBuilder.php on line 3442.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(806): CodeIgniter\Database\BaseBuilder->hasOperator(1)
+ 2 SYSTEMPATH\Database\BaseBuilder.php(722): CodeIgniter\Database\BaseBuilder->whereHaving('QBWhere', true, null, 'AND ', true)
+ 3 APPPATH\Models\ModelPenjualan.php(36): CodeIgniter\Database\BaseBuilder->where(true)
+ 4 APPPATH\Controllers\Penjualan.php(25): App\Models\ModelPenjualan->AllProduk()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penjualan->index()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-04-07 17:43:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:43:56 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:44:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:44:58 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:45:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:45:41 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:47:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:47:03 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:52:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:52:27 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:56:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:56:32 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:56:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:56:59 --> Cart Class Initialized
+DEBUG - 2025-04-07 17:58:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 17:58:02 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:00:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:00:34 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:04:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:04:23 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:08:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:08:01 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:08:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:08:50 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:09:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:09:29 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:09:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 18:09:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:09:39 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:09:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:09:39 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:09:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 18:10:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:10:01 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:10:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:10:01 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:16:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:16:14 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:17:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:17:28 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:17:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:17:44 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:18:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:18:21 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:18:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:18:50 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:19:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:19:52 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:20:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:20:35 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:20:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:20:41 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:22:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:22:10 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:23:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:23:23 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:23:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:23:26 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:23:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:23:26 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:23:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 18:23:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:23:30 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:23:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:23:30 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:23:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:23:36 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:23:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:23:36 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:23:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:23:50 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:24:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 18:24:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:24:11 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:24:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:24:11 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:25:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:25:07 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:25:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:25:09 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:25:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:25:09 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:27:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:27:49 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:29:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:29:49 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:33:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:33:03 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:33:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 18:33:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:33:11 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:33:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:33:11 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:33:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 18:33:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:33:17 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:33:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:33:18 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:33:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 18:33:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:33:23 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:33:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:33:23 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:34:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:34:35 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:34:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 18:34:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:34:50 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:34:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:34:50 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:35:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 18:35:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:35:01 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:35:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:35:01 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:35:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 18:35:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:35:24 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:35:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:35:24 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:40:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:40:16 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:42:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:42:36 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:42:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:42:43 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:42:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:42:44 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:42:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:42:44 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:42:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 18:42:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:42:52 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:42:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:42:52 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:43:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:43:27 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:43:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 18:43:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:43:37 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:43:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:43:37 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:43:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 18:43:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:43:45 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:43:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:43:46 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:47:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:47:52 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:48:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:48:14 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:51:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:51:50 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:54:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:54:20 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:55:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:55:17 --> Cart Class Initialized
+DEBUG - 2025-04-07 18:59:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 18:59:56 --> Cart Class Initialized
+DEBUG - 2025-04-07 19:01:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 19:01:18 --> Cart Class Initialized
+DEBUG - 2025-04-07 19:01:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 19:01:46 --> Cart Class Initialized
+DEBUG - 2025-04-07 19:03:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 19:03:04 --> Cart Class Initialized
+DEBUG - 2025-04-07 19:04:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 19:04:15 --> Cart Class Initialized
+DEBUG - 2025-04-07 19:05:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 19:05:27 --> Cart Class Initialized
+DEBUG - 2025-04-07 19:05:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 19:05:40 --> Cart Class Initialized
+DEBUG - 2025-04-07 19:05:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 19:05:56 --> Cart Class Initialized
+DEBUG - 2025-04-07 19:06:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 19:06:55 --> Cart Class Initialized
+DEBUG - 2025-04-07 19:07:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 19:07:25 --> Cart Class Initialized
+DEBUG - 2025-04-07 19:07:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 19:07:51 --> Cart Class Initialized
+DEBUG - 2025-04-07 19:09:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 19:09:21 --> Cart Class Initialized
+DEBUG - 2025-04-07 19:09:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 19:09:58 --> Cart Class Initialized
+DEBUG - 2025-04-07 19:11:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 19:11:16 --> Cart Class Initialized
+DEBUG - 2025-04-07 19:13:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 19:13:51 --> Cart Class Initialized
+DEBUG - 2025-04-07 19:20:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 19:20:43 --> Cart Class Initialized
+DEBUG - 2025-04-07 19:21:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 19:21:46 --> Cart Class Initialized
+DEBUG - 2025-04-07 19:25:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 19:25:39 --> Cart Class Initialized
+DEBUG - 2025-04-07 19:27:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 19:27:24 --> Cart Class Initialized
+DEBUG - 2025-04-07 19:28:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 19:28:08 --> Cart Class Initialized
+DEBUG - 2025-04-07 19:28:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 19:28:56 --> Cart Class Initialized
+DEBUG - 2025-04-07 19:29:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 19:29:22 --> Cart Class Initialized
+DEBUG - 2025-04-07 19:29:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 19:29:27 --> Cart Class Initialized
+DEBUG - 2025-04-07 19:29:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 19:29:27 --> Cart Class Initialized
+DEBUG - 2025-04-07 19:29:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 19:29:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 19:29:34 --> Cart Class Initialized
+DEBUG - 2025-04-07 19:29:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 19:29:34 --> Cart Class Initialized
+DEBUG - 2025-04-07 19:30:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 19:30:37 --> Cart Class Initialized
+DEBUG - 2025-04-07 19:34:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 19:34:52 --> Cart Class Initialized
+DEBUG - 2025-04-07 19:35:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 19:35:10 --> Cart Class Initialized
+DEBUG - 2025-04-07 19:38:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 19:38:26 --> Cart Class Initialized
+DEBUG - 2025-04-07 19:44:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 19:44:34 --> Cart Class Initialized
+DEBUG - 2025-04-07 19:46:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 19:46:52 --> Cart Class Initialized
+CRITICAL - 2025-04-07 19:46:52 --> ErrorException: Undefined variable $kembalian
+[Method: GET, Route: penjualan]
+in APPPATH\Views\v_penjualan.php on line 343.
+ 1 APPPATH\Views\v_penjualan.php(343): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $kembalian', 'C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\v_penjualan.php', 343)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\v_penjualan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('v_penjualan', [], true)
+ 5 APPPATH\Controllers\Penjualan.php(27): view('v_penjualan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penjualan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-04-07 19:47:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 19:47:40 --> Cart Class Initialized
+DEBUG - 2025-04-07 19:47:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 19:47:56 --> Cart Class Initialized
+CRITICAL - 2025-04-07 19:47:56 --> ErrorException: Undefined variable $kembalian
+[Method: GET, Route: penjualan]
+in APPPATH\Views\v_penjualan.php on line 343.
+ 1 APPPATH\Views\v_penjualan.php(343): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $kembalian', 'C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\v_penjualan.php', 343)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\v_penjualan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('v_penjualan', [], true)
+ 5 APPPATH\Controllers\Penjualan.php(27): view('v_penjualan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penjualan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-04-07 19:54:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 19:54:53 --> Cart Class Initialized
+DEBUG - 2025-04-07 19:55:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 19:55:33 --> Cart Class Initialized
+DEBUG - 2025-04-07 19:56:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 19:56:40 --> Cart Class Initialized
+DEBUG - 2025-04-07 20:01:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 20:01:44 --> Cart Class Initialized
+DEBUG - 2025-04-07 20:02:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 20:02:25 --> Cart Class Initialized
+DEBUG - 2025-04-07 20:05:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 20:05:45 --> Cart Class Initialized
+DEBUG - 2025-04-07 20:06:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 20:06:47 --> Cart Class Initialized
+DEBUG - 2025-04-07 20:11:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 20:11:42 --> Cart Class Initialized
+DEBUG - 2025-04-07 20:12:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 20:12:38 --> Cart Class Initialized
+DEBUG - 2025-04-07 20:13:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 20:13:34 --> Cart Class Initialized
+DEBUG - 2025-04-07 20:18:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 20:18:06 --> Cart Class Initialized
+DEBUG - 2025-04-07 20:18:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 20:18:40 --> Cart Class Initialized
+DEBUG - 2025-04-07 20:18:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 20:18:52 --> Cart Class Initialized
+DEBUG - 2025-04-07 20:19:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 20:19:40 --> Cart Class Initialized
+DEBUG - 2025-04-07 20:19:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 20:19:54 --> Cart Class Initialized
+DEBUG - 2025-04-07 20:20:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 20:20:13 --> Cart Class Initialized
+DEBUG - 2025-04-07 20:23:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 20:23:51 --> Cart Class Initialized
+DEBUG - 2025-04-07 20:25:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 20:25:05 --> Cart Class Initialized
+DEBUG - 2025-04-07 20:28:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 20:28:26 --> Cart Class Initialized
+DEBUG - 2025-04-07 20:29:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 20:29:21 --> Cart Class Initialized
+DEBUG - 2025-04-07 20:31:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 20:31:20 --> Cart Class Initialized
+DEBUG - 2025-04-07 20:32:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 20:32:42 --> Cart Class Initialized
+DEBUG - 2025-04-07 20:33:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 20:33:37 --> Cart Class Initialized
+DEBUG - 2025-04-07 20:33:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 20:33:46 --> Cart Class Initialized
+DEBUG - 2025-04-07 20:34:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 20:34:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 20:34:11 --> Cart Class Initialized
+DEBUG - 2025-04-07 20:36:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 20:36:14 --> Cart Class Initialized
+DEBUG - 2025-04-07 20:37:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 20:37:16 --> Cart Class Initialized
+DEBUG - 2025-04-07 20:39:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 20:39:04 --> Cart Class Initialized
+DEBUG - 2025-04-07 20:41:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 20:41:48 --> Cart Class Initialized
+DEBUG - 2025-04-07 20:41:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 20:41:50 --> Cart Class Initialized
+DEBUG - 2025-04-07 20:42:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 20:42:04 --> Cart Class Initialized
+DEBUG - 2025-04-07 20:43:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 20:43:13 --> Cart Class Initialized
+DEBUG - 2025-04-07 20:43:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 20:43:14 --> Cart Class Initialized
+DEBUG - 2025-04-07 20:43:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 20:43:16 --> Cart Class Initialized
+DEBUG - 2025-04-07 20:45:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 20:45:48 --> Cart Class Initialized
+DEBUG - 2025-04-07 20:45:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 20:45:49 --> Cart Class Initialized
+DEBUG - 2025-04-07 20:45:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 20:45:49 --> Cart Class Initialized
+DEBUG - 2025-04-07 20:45:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 20:45:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 20:45:58 --> Cart Class Initialized
+DEBUG - 2025-04-07 20:45:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 20:45:58 --> Cart Class Initialized
+DEBUG - 2025-04-07 20:46:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 20:46:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 20:46:08 --> Cart Class Initialized
+DEBUG - 2025-04-07 20:46:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 20:46:08 --> Cart Class Initialized
+DEBUG - 2025-04-07 20:46:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 20:46:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 20:46:16 --> Cart Class Initialized
+DEBUG - 2025-04-07 20:46:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 20:46:16 --> Cart Class Initialized
+DEBUG - 2025-04-07 20:46:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 20:46:40 --> Cart Class Initialized
+DEBUG - 2025-04-07 20:46:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 20:46:40 --> Cart Class Initialized
+DEBUG - 2025-04-07 20:46:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 20:46:45 --> Cart Class Initialized
+DEBUG - 2025-04-07 20:46:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 20:46:45 --> Cart Class Initialized
+DEBUG - 2025-04-07 20:48:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 20:48:47 --> Cart Class Initialized
+DEBUG - 2025-04-07 20:48:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 21:06:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 21:06:06 --> Cart Class Initialized
+DEBUG - 2025-04-07 21:06:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 21:06:22 --> Cart Class Initialized
+ERROR - 2025-04-07 21:06:22 --> mysqli_sql_exception: Unknown column 'harga_treat' in 'field list' in C:\xampp\htdocs\kasir-ci4\system\Database\MySQLi\Connection.php:327
+Stack trace:
+#0 C:\xampp\htdocs\kasir-ci4\system\Database\MySQLi\Connection.php(327): mysqli->query('INSERT INTO `tb...', 0)
+#1 C:\xampp\htdocs\kasir-ci4\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb...')
+#2 C:\xampp\htdocs\kasir-ci4\system\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb...')
+#3 C:\xampp\htdocs\kasir-ci4\system\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb...', Array, false)
+#4 C:\xampp\htdocs\kasir-ci4\app\Models\ModelPenjualan.php(44): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\kasir-ci4\app\Controllers\Penjualan.php(105): App\Models\ModelPenjualan->InsertRinciJual(Array)
+#6 C:\xampp\htdocs\kasir-ci4\system\CodeIgniter.php(933): App\Controllers\Penjualan->SimpanTransaksi()
+#7 C:\xampp\htdocs\kasir-ci4\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#8 C:\xampp\htdocs\kasir-ci4\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\kasir-ci4\system\Boot.php(334): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\kasir-ci4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\xampp\htdocs\kasir-ci4\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2025-04-07 21:06:22 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'harga_treat' in 'field list'
+[Method: POST, Route: Penjualan/SimpanTransaksi]
+in SYSTEMPATH\Database\BaseConnection.php on line 692.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_rinci_jual` (`no_faktur`, `kode_produk`, `harga_treat`, `qty`, `total_harga`) VALUES (:no_faktur:, :kode_produk:, :harga_treat:, :qty:, :total_harga:)', [...], false)
+ 2 APPPATH\Models\ModelPenjualan.php(44): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\Penjualan.php(105): App\Models\ModelPenjualan->InsertRinciJual([...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penjualan->SimpanTransaksi()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-04-07 21:06:22 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'harga_treat' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 332.
+ 1 SYSTEMPATH\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tbl_rinci_jual` (`no_faktur`, `kode_produk`, `harga_treat`, `qty`, `total_harga`) VALUES (\'111\', \'111\', 125000, 10, 1250000)')
+ 2 SYSTEMPATH\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tbl_rinci_jual` (`no_faktur`, `kode_produk`, `harga_treat`, `qty`, `total_harga`) VALUES (\'111\', \'111\', 125000, 10, 1250000)')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_rinci_jual` (`no_faktur`, `kode_produk`, `harga_treat`, `qty`, `total_harga`) VALUES (:no_faktur:, :kode_produk:, :harga_treat:, :qty:, :total_harga:)', [...], false)
+ 4 APPPATH\Models\ModelPenjualan.php(44): CodeIgniter\Database\BaseBuilder->insert([...])
+ 5 APPPATH\Controllers\Penjualan.php(105): App\Models\ModelPenjualan->InsertRinciJual([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penjualan->SimpanTransaksi()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-04-07 21:06:22 --> [Caused by] mysqli_sql_exception: Unknown column 'harga_treat' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 327.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(327): mysqli->query('INSERT INTO `tbl_rinci_jual` (`no_faktur`, `kode_produk`, `harga_treat`, `qty`, `total_harga`) VALUES (\'111\', \'111\', 125000, 10, 1250000)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tbl_rinci_jual` (`no_faktur`, `kode_produk`, `harga_treat`, `qty`, `total_harga`) VALUES (\'111\', \'111\', 125000, 10, 1250000)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tbl_rinci_jual` (`no_faktur`, `kode_produk`, `harga_treat`, `qty`, `total_harga`) VALUES (\'111\', \'111\', 125000, 10, 1250000)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_rinci_jual` (`no_faktur`, `kode_produk`, `harga_treat`, `qty`, `total_harga`) VALUES (:no_faktur:, :kode_produk:, :harga_treat:, :qty:, :total_harga:)', [...], false)
+ 5 APPPATH\Models\ModelPenjualan.php(44): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\Penjualan.php(105): App\Models\ModelPenjualan->InsertRinciJual([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penjualan->SimpanTransaksi()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-04-07 21:12:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 21:12:46 --> Cart Class Initialized
+ERROR - 2025-04-07 21:12:46 --> mysqli_sql_exception: Unknown column 'harga_treat' in 'field list' in C:\xampp\htdocs\kasir-ci4\system\Database\MySQLi\Connection.php:327
+Stack trace:
+#0 C:\xampp\htdocs\kasir-ci4\system\Database\MySQLi\Connection.php(327): mysqli->query('INSERT INTO `tb...', 0)
+#1 C:\xampp\htdocs\kasir-ci4\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb...')
+#2 C:\xampp\htdocs\kasir-ci4\system\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb...')
+#3 C:\xampp\htdocs\kasir-ci4\system\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb...', Array, false)
+#4 C:\xampp\htdocs\kasir-ci4\app\Models\ModelPenjualan.php(44): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\kasir-ci4\app\Controllers\Penjualan.php(106): App\Models\ModelPenjualan->InsertRinciJual(Array)
+#6 C:\xampp\htdocs\kasir-ci4\system\CodeIgniter.php(933): App\Controllers\Penjualan->SimpanTransaksi()
+#7 C:\xampp\htdocs\kasir-ci4\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#8 C:\xampp\htdocs\kasir-ci4\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\kasir-ci4\system\Boot.php(334): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\kasir-ci4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\xampp\htdocs\kasir-ci4\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2025-04-07 21:12:46 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'harga_treat' in 'field list'
+[Method: POST, Route: Penjualan/SimpanTransaksi]
+in SYSTEMPATH\Database\BaseConnection.php on line 692.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_rinci_jual` (`no_faktur`, `kode_produk`, `harga_treat`, `qty`, `total_harga`) VALUES (:no_faktur:, :kode_produk:, :harga_treat:, :qty:, :total_harga:)', [...], false)
+ 2 APPPATH\Models\ModelPenjualan.php(44): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\Penjualan.php(106): App\Models\ModelPenjualan->InsertRinciJual([...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penjualan->SimpanTransaksi()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-04-07 21:12:46 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'harga_treat' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 332.
+ 1 SYSTEMPATH\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tbl_rinci_jual` (`no_faktur`, `kode_produk`, `harga_treat`, `qty`, `total_harga`) VALUES (\'111\', \'111\', 125000, 10, 1250000)')
+ 2 SYSTEMPATH\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tbl_rinci_jual` (`no_faktur`, `kode_produk`, `harga_treat`, `qty`, `total_harga`) VALUES (\'111\', \'111\', 125000, 10, 1250000)')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_rinci_jual` (`no_faktur`, `kode_produk`, `harga_treat`, `qty`, `total_harga`) VALUES (:no_faktur:, :kode_produk:, :harga_treat:, :qty:, :total_harga:)', [...], false)
+ 4 APPPATH\Models\ModelPenjualan.php(44): CodeIgniter\Database\BaseBuilder->insert([...])
+ 5 APPPATH\Controllers\Penjualan.php(106): App\Models\ModelPenjualan->InsertRinciJual([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penjualan->SimpanTransaksi()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-04-07 21:12:46 --> [Caused by] mysqli_sql_exception: Unknown column 'harga_treat' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 327.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(327): mysqli->query('INSERT INTO `tbl_rinci_jual` (`no_faktur`, `kode_produk`, `harga_treat`, `qty`, `total_harga`) VALUES (\'111\', \'111\', 125000, 10, 1250000)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tbl_rinci_jual` (`no_faktur`, `kode_produk`, `harga_treat`, `qty`, `total_harga`) VALUES (\'111\', \'111\', 125000, 10, 1250000)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tbl_rinci_jual` (`no_faktur`, `kode_produk`, `harga_treat`, `qty`, `total_harga`) VALUES (\'111\', \'111\', 125000, 10, 1250000)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_rinci_jual` (`no_faktur`, `kode_produk`, `harga_treat`, `qty`, `total_harga`) VALUES (:no_faktur:, :kode_produk:, :harga_treat:, :qty:, :total_harga:)', [...], false)
+ 5 APPPATH\Models\ModelPenjualan.php(44): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\Penjualan.php(106): App\Models\ModelPenjualan->InsertRinciJual([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penjualan->SimpanTransaksi()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-04-07 21:13:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 21:13:14 --> Cart Class Initialized
+ERROR - 2025-04-07 21:13:14 --> mysqli_sql_exception: Unknown column 'harga_treat' in 'field list' in C:\xampp\htdocs\kasir-ci4\system\Database\MySQLi\Connection.php:327
+Stack trace:
+#0 C:\xampp\htdocs\kasir-ci4\system\Database\MySQLi\Connection.php(327): mysqli->query('INSERT INTO `tb...', 0)
+#1 C:\xampp\htdocs\kasir-ci4\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb...')
+#2 C:\xampp\htdocs\kasir-ci4\system\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb...')
+#3 C:\xampp\htdocs\kasir-ci4\system\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb...', Array, false)
+#4 C:\xampp\htdocs\kasir-ci4\app\Models\ModelPenjualan.php(44): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\kasir-ci4\app\Controllers\Penjualan.php(106): App\Models\ModelPenjualan->InsertRinciJual(Array)
+#6 C:\xampp\htdocs\kasir-ci4\system\CodeIgniter.php(933): App\Controllers\Penjualan->SimpanTransaksi()
+#7 C:\xampp\htdocs\kasir-ci4\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#8 C:\xampp\htdocs\kasir-ci4\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\kasir-ci4\system\Boot.php(334): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\kasir-ci4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\xampp\htdocs\kasir-ci4\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2025-04-07 21:13:14 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'harga_treat' in 'field list'
+[Method: POST, Route: Penjualan/SimpanTransaksi]
+in SYSTEMPATH\Database\BaseConnection.php on line 692.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_rinci_jual` (`no_faktur`, `kode_produk`, `harga_treat`, `qty`, `total_harga`) VALUES (:no_faktur:, :kode_produk:, :harga_treat:, :qty:, :total_harga:)', [...], false)
+ 2 APPPATH\Models\ModelPenjualan.php(44): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\Penjualan.php(106): App\Models\ModelPenjualan->InsertRinciJual([...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penjualan->SimpanTransaksi()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-04-07 21:13:14 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'harga_treat' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 332.
+ 1 SYSTEMPATH\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tbl_rinci_jual` (`no_faktur`, `kode_produk`, `harga_treat`, `qty`, `total_harga`) VALUES (\'202504070001\', \'111\', 125000, 10, 1250000)')
+ 2 SYSTEMPATH\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tbl_rinci_jual` (`no_faktur`, `kode_produk`, `harga_treat`, `qty`, `total_harga`) VALUES (\'202504070001\', \'111\', 125000, 10, 1250000)')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_rinci_jual` (`no_faktur`, `kode_produk`, `harga_treat`, `qty`, `total_harga`) VALUES (:no_faktur:, :kode_produk:, :harga_treat:, :qty:, :total_harga:)', [...], false)
+ 4 APPPATH\Models\ModelPenjualan.php(44): CodeIgniter\Database\BaseBuilder->insert([...])
+ 5 APPPATH\Controllers\Penjualan.php(106): App\Models\ModelPenjualan->InsertRinciJual([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penjualan->SimpanTransaksi()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-04-07 21:13:14 --> [Caused by] mysqli_sql_exception: Unknown column 'harga_treat' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 327.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(327): mysqli->query('INSERT INTO `tbl_rinci_jual` (`no_faktur`, `kode_produk`, `harga_treat`, `qty`, `total_harga`) VALUES (\'202504070001\', \'111\', 125000, 10, 1250000)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tbl_rinci_jual` (`no_faktur`, `kode_produk`, `harga_treat`, `qty`, `total_harga`) VALUES (\'202504070001\', \'111\', 125000, 10, 1250000)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tbl_rinci_jual` (`no_faktur`, `kode_produk`, `harga_treat`, `qty`, `total_harga`) VALUES (\'202504070001\', \'111\', 125000, 10, 1250000)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_rinci_jual` (`no_faktur`, `kode_produk`, `harga_treat`, `qty`, `total_harga`) VALUES (:no_faktur:, :kode_produk:, :harga_treat:, :qty:, :total_harga:)', [...], false)
+ 5 APPPATH\Models\ModelPenjualan.php(44): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\Penjualan.php(106): App\Models\ModelPenjualan->InsertRinciJual([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penjualan->SimpanTransaksi()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-04-07 21:19:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 21:19:11 --> Cart Class Initialized
+ERROR - 2025-04-07 21:19:11 --> mysqli_sql_exception: Unknown column 'harga_treat' in 'field list' in C:\xampp\htdocs\kasir-ci4\system\Database\MySQLi\Connection.php:327
+Stack trace:
+#0 C:\xampp\htdocs\kasir-ci4\system\Database\MySQLi\Connection.php(327): mysqli->query('INSERT INTO `tb...', 0)
+#1 C:\xampp\htdocs\kasir-ci4\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb...')
+#2 C:\xampp\htdocs\kasir-ci4\system\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb...')
+#3 C:\xampp\htdocs\kasir-ci4\system\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb...', Array, false)
+#4 C:\xampp\htdocs\kasir-ci4\app\Models\ModelPenjualan.php(44): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\kasir-ci4\app\Controllers\Penjualan.php(106): App\Models\ModelPenjualan->InsertRinciJual(Array)
+#6 C:\xampp\htdocs\kasir-ci4\system\CodeIgniter.php(933): App\Controllers\Penjualan->SimpanTransaksi()
+#7 C:\xampp\htdocs\kasir-ci4\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#8 C:\xampp\htdocs\kasir-ci4\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\kasir-ci4\system\Boot.php(334): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\kasir-ci4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\xampp\htdocs\kasir-ci4\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2025-04-07 21:19:11 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'harga_treat' in 'field list'
+[Method: POST, Route: Penjualan/SimpanTransaksi]
+in SYSTEMPATH\Database\BaseConnection.php on line 692.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_rinci_jual` (`no_faktur`, `kode_produk`, `harga_treat`, `qty`, `total_harga`) VALUES (:no_faktur:, :kode_produk:, :harga_treat:, :qty:, :total_harga:)', [...], false)
+ 2 APPPATH\Models\ModelPenjualan.php(44): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\Penjualan.php(106): App\Models\ModelPenjualan->InsertRinciJual([...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penjualan->SimpanTransaksi()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-04-07 21:19:11 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'harga_treat' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 332.
+ 1 SYSTEMPATH\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tbl_rinci_jual` (`no_faktur`, `kode_produk`, `harga_treat`, `qty`, `total_harga`) VALUES (\'202504070001\', \'111\', 125000, 10, 1250000)')
+ 2 SYSTEMPATH\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tbl_rinci_jual` (`no_faktur`, `kode_produk`, `harga_treat`, `qty`, `total_harga`) VALUES (\'202504070001\', \'111\', 125000, 10, 1250000)')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_rinci_jual` (`no_faktur`, `kode_produk`, `harga_treat`, `qty`, `total_harga`) VALUES (:no_faktur:, :kode_produk:, :harga_treat:, :qty:, :total_harga:)', [...], false)
+ 4 APPPATH\Models\ModelPenjualan.php(44): CodeIgniter\Database\BaseBuilder->insert([...])
+ 5 APPPATH\Controllers\Penjualan.php(106): App\Models\ModelPenjualan->InsertRinciJual([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penjualan->SimpanTransaksi()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-04-07 21:19:11 --> [Caused by] mysqli_sql_exception: Unknown column 'harga_treat' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 327.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(327): mysqli->query('INSERT INTO `tbl_rinci_jual` (`no_faktur`, `kode_produk`, `harga_treat`, `qty`, `total_harga`) VALUES (\'202504070001\', \'111\', 125000, 10, 1250000)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tbl_rinci_jual` (`no_faktur`, `kode_produk`, `harga_treat`, `qty`, `total_harga`) VALUES (\'202504070001\', \'111\', 125000, 10, 1250000)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tbl_rinci_jual` (`no_faktur`, `kode_produk`, `harga_treat`, `qty`, `total_harga`) VALUES (\'202504070001\', \'111\', 125000, 10, 1250000)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_rinci_jual` (`no_faktur`, `kode_produk`, `harga_treat`, `qty`, `total_harga`) VALUES (:no_faktur:, :kode_produk:, :harga_treat:, :qty:, :total_harga:)', [...], false)
+ 5 APPPATH\Models\ModelPenjualan.php(44): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\Penjualan.php(106): App\Models\ModelPenjualan->InsertRinciJual([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penjualan->SimpanTransaksi()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-04-07 21:19:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 21:19:12 --> Cart Class Initialized
+DEBUG - 2025-04-07 21:19:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 21:19:14 --> Cart Class Initialized
+DEBUG - 2025-04-07 21:21:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 21:21:45 --> Cart Class Initialized
+DEBUG - 2025-04-07 21:21:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 21:21:52 --> Cart Class Initialized
+ERROR - 2025-04-07 21:21:52 --> mysqli_sql_exception: Unknown column 'harga_treat' in 'field list' in C:\xampp\htdocs\kasir-ci4\system\Database\MySQLi\Connection.php:327
+Stack trace:
+#0 C:\xampp\htdocs\kasir-ci4\system\Database\MySQLi\Connection.php(327): mysqli->query('INSERT INTO `tb...', 0)
+#1 C:\xampp\htdocs\kasir-ci4\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb...')
+#2 C:\xampp\htdocs\kasir-ci4\system\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb...')
+#3 C:\xampp\htdocs\kasir-ci4\system\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb...', Array, false)
+#4 C:\xampp\htdocs\kasir-ci4\app\Models\ModelPenjualan.php(44): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\kasir-ci4\app\Controllers\Penjualan.php(106): App\Models\ModelPenjualan->InsertRinciJual(Array)
+#6 C:\xampp\htdocs\kasir-ci4\system\CodeIgniter.php(933): App\Controllers\Penjualan->SimpanTransaksi()
+#7 C:\xampp\htdocs\kasir-ci4\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#8 C:\xampp\htdocs\kasir-ci4\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\kasir-ci4\system\Boot.php(334): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\kasir-ci4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\xampp\htdocs\kasir-ci4\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2025-04-07 21:21:52 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'harga_treat' in 'field list'
+[Method: POST, Route: Penjualan/SimpanTransaksi]
+in SYSTEMPATH\Database\BaseConnection.php on line 692.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_rinci_jual` (`no_faktur`, `kode_produk`, `harga_treat`, `qty`, `total_harga`) VALUES (:no_faktur:, :kode_produk:, :harga_treat:, :qty:, :total_harga:)', [...], false)
+ 2 APPPATH\Models\ModelPenjualan.php(44): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\Penjualan.php(106): App\Models\ModelPenjualan->InsertRinciJual([...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penjualan->SimpanTransaksi()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-04-07 21:21:52 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'harga_treat' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 332.
+ 1 SYSTEMPATH\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tbl_rinci_jual` (`no_faktur`, `kode_produk`, `harga_treat`, `qty`, `total_harga`) VALUES (\'202504070001\', \'111\', 125000, 10, 1250000)')
+ 2 SYSTEMPATH\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tbl_rinci_jual` (`no_faktur`, `kode_produk`, `harga_treat`, `qty`, `total_harga`) VALUES (\'202504070001\', \'111\', 125000, 10, 1250000)')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_rinci_jual` (`no_faktur`, `kode_produk`, `harga_treat`, `qty`, `total_harga`) VALUES (:no_faktur:, :kode_produk:, :harga_treat:, :qty:, :total_harga:)', [...], false)
+ 4 APPPATH\Models\ModelPenjualan.php(44): CodeIgniter\Database\BaseBuilder->insert([...])
+ 5 APPPATH\Controllers\Penjualan.php(106): App\Models\ModelPenjualan->InsertRinciJual([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penjualan->SimpanTransaksi()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-04-07 21:21:52 --> [Caused by] mysqli_sql_exception: Unknown column 'harga_treat' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 327.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(327): mysqli->query('INSERT INTO `tbl_rinci_jual` (`no_faktur`, `kode_produk`, `harga_treat`, `qty`, `total_harga`) VALUES (\'202504070001\', \'111\', 125000, 10, 1250000)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tbl_rinci_jual` (`no_faktur`, `kode_produk`, `harga_treat`, `qty`, `total_harga`) VALUES (\'202504070001\', \'111\', 125000, 10, 1250000)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tbl_rinci_jual` (`no_faktur`, `kode_produk`, `harga_treat`, `qty`, `total_harga`) VALUES (\'202504070001\', \'111\', 125000, 10, 1250000)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_rinci_jual` (`no_faktur`, `kode_produk`, `harga_treat`, `qty`, `total_harga`) VALUES (:no_faktur:, :kode_produk:, :harga_treat:, :qty:, :total_harga:)', [...], false)
+ 5 APPPATH\Models\ModelPenjualan.php(44): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\Penjualan.php(106): App\Models\ModelPenjualan->InsertRinciJual([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penjualan->SimpanTransaksi()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-04-07 21:22:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 21:22:32 --> Cart Class Initialized
+ERROR - 2025-04-07 21:22:32 --> mysqli_sql_exception: Unknown column 'dibayara' in 'field list' in C:\xampp\htdocs\kasir-ci4\system\Database\MySQLi\Connection.php:327
+Stack trace:
+#0 C:\xampp\htdocs\kasir-ci4\system\Database\MySQLi\Connection.php(327): mysqli->query('INSERT INTO `tb...', 0)
+#1 C:\xampp\htdocs\kasir-ci4\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb...')
+#2 C:\xampp\htdocs\kasir-ci4\system\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb...')
+#3 C:\xampp\htdocs\kasir-ci4\system\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb...', Array, false)
+#4 C:\xampp\htdocs\kasir-ci4\app\Models\ModelPenjualan.php(40): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\kasir-ci4\app\Controllers\Penjualan.php(119): App\Models\ModelPenjualan->InsertJual(Array)
+#6 C:\xampp\htdocs\kasir-ci4\system\CodeIgniter.php(933): App\Controllers\Penjualan->SimpanTransaksi()
+#7 C:\xampp\htdocs\kasir-ci4\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#8 C:\xampp\htdocs\kasir-ci4\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\kasir-ci4\system\Boot.php(334): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\kasir-ci4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\xampp\htdocs\kasir-ci4\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2025-04-07 21:22:32 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'dibayara' in 'field list'
+[Method: POST, Route: Penjualan/SimpanTransaksi]
+in SYSTEMPATH\Database\BaseConnection.php on line 692.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_jual` (`no_faktur`, `tgl_jual`, `jam`, `grand_total`, `dibayara`, `kembalian`, `id_user`) VALUES (:no_faktur:, :tgl_jual:, :jam:, :grand_total:, :dibayara:, :kembalian:, :id_user:)', [...], false)
+ 2 APPPATH\Models\ModelPenjualan.php(40): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\Penjualan.php(119): App\Models\ModelPenjualan->InsertJual([...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penjualan->SimpanTransaksi()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-04-07 21:22:32 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'dibayara' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 332.
+ 1 SYSTEMPATH\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tbl_jual` (`no_faktur`, `tgl_jual`, `jam`, `grand_total`, `dibayara`, `kembalian`, `id_user`) VALUES (\'202504070001\', \'2025-04-07\', \'21:22:32\', 1250000, \'1500000\', \'250000\', \'1\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tbl_jual` (`no_faktur`, `tgl_jual`, `jam`, `grand_total`, `dibayara`, `kembalian`, `id_user`) VALUES (\'202504070001\', \'2025-04-07\', \'21:22:32\', 1250000, \'1500000\', \'250000\', \'1\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_jual` (`no_faktur`, `tgl_jual`, `jam`, `grand_total`, `dibayara`, `kembalian`, `id_user`) VALUES (:no_faktur:, :tgl_jual:, :jam:, :grand_total:, :dibayara:, :kembalian:, :id_user:)', [...], false)
+ 4 APPPATH\Models\ModelPenjualan.php(40): CodeIgniter\Database\BaseBuilder->insert([...])
+ 5 APPPATH\Controllers\Penjualan.php(119): App\Models\ModelPenjualan->InsertJual([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penjualan->SimpanTransaksi()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-04-07 21:22:32 --> [Caused by] mysqli_sql_exception: Unknown column 'dibayara' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 327.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(327): mysqli->query('INSERT INTO `tbl_jual` (`no_faktur`, `tgl_jual`, `jam`, `grand_total`, `dibayara`, `kembalian`, `id_user`) VALUES (\'202504070001\', \'2025-04-07\', \'21:22:32\', 1250000, \'1500000\', \'250000\', \'1\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tbl_jual` (`no_faktur`, `tgl_jual`, `jam`, `grand_total`, `dibayara`, `kembalian`, `id_user`) VALUES (\'202504070001\', \'2025-04-07\', \'21:22:32\', 1250000, \'1500000\', \'250000\', \'1\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tbl_jual` (`no_faktur`, `tgl_jual`, `jam`, `grand_total`, `dibayara`, `kembalian`, `id_user`) VALUES (\'202504070001\', \'2025-04-07\', \'21:22:32\', 1250000, \'1500000\', \'250000\', \'1\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_jual` (`no_faktur`, `tgl_jual`, `jam`, `grand_total`, `dibayara`, `kembalian`, `id_user`) VALUES (:no_faktur:, :tgl_jual:, :jam:, :grand_total:, :dibayara:, :kembalian:, :id_user:)', [...], false)
+ 5 APPPATH\Models\ModelPenjualan.php(40): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\Penjualan.php(119): App\Models\ModelPenjualan->InsertJual([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penjualan->SimpanTransaksi()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-04-07 21:22:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 21:22:42 --> Cart Class Initialized
+ERROR - 2025-04-07 21:22:43 --> mysqli_sql_exception: Unknown column 'id_user' in 'field list' in C:\xampp\htdocs\kasir-ci4\system\Database\MySQLi\Connection.php:327
+Stack trace:
+#0 C:\xampp\htdocs\kasir-ci4\system\Database\MySQLi\Connection.php(327): mysqli->query('INSERT INTO `tb...', 0)
+#1 C:\xampp\htdocs\kasir-ci4\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb...')
+#2 C:\xampp\htdocs\kasir-ci4\system\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb...')
+#3 C:\xampp\htdocs\kasir-ci4\system\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb...', Array, false)
+#4 C:\xampp\htdocs\kasir-ci4\app\Models\ModelPenjualan.php(40): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\kasir-ci4\app\Controllers\Penjualan.php(119): App\Models\ModelPenjualan->InsertJual(Array)
+#6 C:\xampp\htdocs\kasir-ci4\system\CodeIgniter.php(933): App\Controllers\Penjualan->SimpanTransaksi()
+#7 C:\xampp\htdocs\kasir-ci4\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#8 C:\xampp\htdocs\kasir-ci4\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\kasir-ci4\system\Boot.php(334): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\kasir-ci4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\xampp\htdocs\kasir-ci4\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2025-04-07 21:22:43 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'id_user' in 'field list'
+[Method: POST, Route: Penjualan/SimpanTransaksi]
+in SYSTEMPATH\Database\BaseConnection.php on line 692.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_jual` (`no_faktur`, `tgl_jual`, `jam`, `grand_total`, `dibayar`, `kembalian`, `id_user`) VALUES (:no_faktur:, :tgl_jual:, :jam:, :grand_total:, :dibayar:, :kembalian:, :id_user:)', [...], false)
+ 2 APPPATH\Models\ModelPenjualan.php(40): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\Penjualan.php(119): App\Models\ModelPenjualan->InsertJual([...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penjualan->SimpanTransaksi()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-04-07 21:22:43 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'id_user' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 332.
+ 1 SYSTEMPATH\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tbl_jual` (`no_faktur`, `tgl_jual`, `jam`, `grand_total`, `dibayar`, `kembalian`, `id_user`) VALUES (\'202504070001\', \'2025-04-07\', \'21:22:43\', 1250000, \'1500000\', \'250000\', \'1\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tbl_jual` (`no_faktur`, `tgl_jual`, `jam`, `grand_total`, `dibayar`, `kembalian`, `id_user`) VALUES (\'202504070001\', \'2025-04-07\', \'21:22:43\', 1250000, \'1500000\', \'250000\', \'1\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_jual` (`no_faktur`, `tgl_jual`, `jam`, `grand_total`, `dibayar`, `kembalian`, `id_user`) VALUES (:no_faktur:, :tgl_jual:, :jam:, :grand_total:, :dibayar:, :kembalian:, :id_user:)', [...], false)
+ 4 APPPATH\Models\ModelPenjualan.php(40): CodeIgniter\Database\BaseBuilder->insert([...])
+ 5 APPPATH\Controllers\Penjualan.php(119): App\Models\ModelPenjualan->InsertJual([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penjualan->SimpanTransaksi()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-04-07 21:22:43 --> [Caused by] mysqli_sql_exception: Unknown column 'id_user' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 327.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(327): mysqli->query('INSERT INTO `tbl_jual` (`no_faktur`, `tgl_jual`, `jam`, `grand_total`, `dibayar`, `kembalian`, `id_user`) VALUES (\'202504070001\', \'2025-04-07\', \'21:22:43\', 1250000, \'1500000\', \'250000\', \'1\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tbl_jual` (`no_faktur`, `tgl_jual`, `jam`, `grand_total`, `dibayar`, `kembalian`, `id_user`) VALUES (\'202504070001\', \'2025-04-07\', \'21:22:43\', 1250000, \'1500000\', \'250000\', \'1\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tbl_jual` (`no_faktur`, `tgl_jual`, `jam`, `grand_total`, `dibayar`, `kembalian`, `id_user`) VALUES (\'202504070001\', \'2025-04-07\', \'21:22:43\', 1250000, \'1500000\', \'250000\', \'1\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_jual` (`no_faktur`, `tgl_jual`, `jam`, `grand_total`, `dibayar`, `kembalian`, `id_user`) VALUES (:no_faktur:, :tgl_jual:, :jam:, :grand_total:, :dibayar:, :kembalian:, :id_user:)', [...], false)
+ 5 APPPATH\Models\ModelPenjualan.php(40): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\Penjualan.php(119): App\Models\ModelPenjualan->InsertJual([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penjualan->SimpanTransaksi()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-04-07 21:24:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 21:24:45 --> Cart Class Initialized
+ERROR - 2025-04-07 21:24:45 --> mysqli_sql_exception: Unknown column 'id_user' in 'field list' in C:\xampp\htdocs\kasir-ci4\system\Database\MySQLi\Connection.php:327
+Stack trace:
+#0 C:\xampp\htdocs\kasir-ci4\system\Database\MySQLi\Connection.php(327): mysqli->query('INSERT INTO `tb...', 0)
+#1 C:\xampp\htdocs\kasir-ci4\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb...')
+#2 C:\xampp\htdocs\kasir-ci4\system\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb...')
+#3 C:\xampp\htdocs\kasir-ci4\system\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb...', Array, false)
+#4 C:\xampp\htdocs\kasir-ci4\app\Models\ModelPenjualan.php(40): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\kasir-ci4\app\Controllers\Penjualan.php(119): App\Models\ModelPenjualan->InsertJual(Array)
+#6 C:\xampp\htdocs\kasir-ci4\system\CodeIgniter.php(933): App\Controllers\Penjualan->SimpanTransaksi()
+#7 C:\xampp\htdocs\kasir-ci4\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#8 C:\xampp\htdocs\kasir-ci4\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\kasir-ci4\system\Boot.php(334): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\kasir-ci4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\xampp\htdocs\kasir-ci4\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2025-04-07 21:24:45 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'id_user' in 'field list'
+[Method: POST, Route: Penjualan/SimpanTransaksi]
+in SYSTEMPATH\Database\BaseConnection.php on line 692.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_jual` (`no_faktur`, `tgl_jual`, `jam`, `grand_total`, `dibayar`, `kembalian`, `id_user`) VALUES (:no_faktur:, :tgl_jual:, :jam:, :grand_total:, :dibayar:, :kembalian:, :id_user:)', [...], false)
+ 2 APPPATH\Models\ModelPenjualan.php(40): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\Penjualan.php(119): App\Models\ModelPenjualan->InsertJual([...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penjualan->SimpanTransaksi()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-04-07 21:24:45 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'id_user' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 332.
+ 1 SYSTEMPATH\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tbl_jual` (`no_faktur`, `tgl_jual`, `jam`, `grand_total`, `dibayar`, `kembalian`, `id_user`) VALUES (\'202504070001\', \'2025-04-07\', \'21:24:45\', 1250000, \'1500000\', \'250000\', \'1\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tbl_jual` (`no_faktur`, `tgl_jual`, `jam`, `grand_total`, `dibayar`, `kembalian`, `id_user`) VALUES (\'202504070001\', \'2025-04-07\', \'21:24:45\', 1250000, \'1500000\', \'250000\', \'1\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_jual` (`no_faktur`, `tgl_jual`, `jam`, `grand_total`, `dibayar`, `kembalian`, `id_user`) VALUES (:no_faktur:, :tgl_jual:, :jam:, :grand_total:, :dibayar:, :kembalian:, :id_user:)', [...], false)
+ 4 APPPATH\Models\ModelPenjualan.php(40): CodeIgniter\Database\BaseBuilder->insert([...])
+ 5 APPPATH\Controllers\Penjualan.php(119): App\Models\ModelPenjualan->InsertJual([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penjualan->SimpanTransaksi()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-04-07 21:24:45 --> [Caused by] mysqli_sql_exception: Unknown column 'id_user' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 327.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(327): mysqli->query('INSERT INTO `tbl_jual` (`no_faktur`, `tgl_jual`, `jam`, `grand_total`, `dibayar`, `kembalian`, `id_user`) VALUES (\'202504070001\', \'2025-04-07\', \'21:24:45\', 1250000, \'1500000\', \'250000\', \'1\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tbl_jual` (`no_faktur`, `tgl_jual`, `jam`, `grand_total`, `dibayar`, `kembalian`, `id_user`) VALUES (\'202504070001\', \'2025-04-07\', \'21:24:45\', 1250000, \'1500000\', \'250000\', \'1\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tbl_jual` (`no_faktur`, `tgl_jual`, `jam`, `grand_total`, `dibayar`, `kembalian`, `id_user`) VALUES (\'202504070001\', \'2025-04-07\', \'21:24:45\', 1250000, \'1500000\', \'250000\', \'1\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_jual` (`no_faktur`, `tgl_jual`, `jam`, `grand_total`, `dibayar`, `kembalian`, `id_user`) VALUES (:no_faktur:, :tgl_jual:, :jam:, :grand_total:, :dibayar:, :kembalian:, :id_user:)', [...], false)
+ 5 APPPATH\Models\ModelPenjualan.php(40): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\Penjualan.php(119): App\Models\ModelPenjualan->InsertJual([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penjualan->SimpanTransaksi()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-04-07 21:24:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 21:24:47 --> Cart Class Initialized
+DEBUG - 2025-04-07 21:24:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 21:24:55 --> Cart Class Initialized
+ERROR - 2025-04-07 21:24:55 --> mysqli_sql_exception: Unknown column 'id_user' in 'field list' in C:\xampp\htdocs\kasir-ci4\system\Database\MySQLi\Connection.php:327
+Stack trace:
+#0 C:\xampp\htdocs\kasir-ci4\system\Database\MySQLi\Connection.php(327): mysqli->query('INSERT INTO `tb...', 0)
+#1 C:\xampp\htdocs\kasir-ci4\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb...')
+#2 C:\xampp\htdocs\kasir-ci4\system\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb...')
+#3 C:\xampp\htdocs\kasir-ci4\system\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb...', Array, false)
+#4 C:\xampp\htdocs\kasir-ci4\app\Models\ModelPenjualan.php(40): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\kasir-ci4\app\Controllers\Penjualan.php(119): App\Models\ModelPenjualan->InsertJual(Array)
+#6 C:\xampp\htdocs\kasir-ci4\system\CodeIgniter.php(933): App\Controllers\Penjualan->SimpanTransaksi()
+#7 C:\xampp\htdocs\kasir-ci4\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#8 C:\xampp\htdocs\kasir-ci4\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\kasir-ci4\system\Boot.php(334): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\kasir-ci4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\xampp\htdocs\kasir-ci4\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2025-04-07 21:24:55 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'id_user' in 'field list'
+[Method: POST, Route: Penjualan/SimpanTransaksi]
+in SYSTEMPATH\Database\BaseConnection.php on line 692.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_jual` (`no_faktur`, `tgl_jual`, `jam`, `grand_total`, `dibayar`, `kembalian`, `id_user`) VALUES (:no_faktur:, :tgl_jual:, :jam:, :grand_total:, :dibayar:, :kembalian:, :id_user:)', [...], false)
+ 2 APPPATH\Models\ModelPenjualan.php(40): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\Penjualan.php(119): App\Models\ModelPenjualan->InsertJual([...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penjualan->SimpanTransaksi()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-04-07 21:24:55 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'id_user' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 332.
+ 1 SYSTEMPATH\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tbl_jual` (`no_faktur`, `tgl_jual`, `jam`, `grand_total`, `dibayar`, `kembalian`, `id_user`) VALUES (\'202504070001\', \'2025-04-07\', \'21:24:55\', 1250000, \'1500000\', \'250000\', \'1\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tbl_jual` (`no_faktur`, `tgl_jual`, `jam`, `grand_total`, `dibayar`, `kembalian`, `id_user`) VALUES (\'202504070001\', \'2025-04-07\', \'21:24:55\', 1250000, \'1500000\', \'250000\', \'1\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_jual` (`no_faktur`, `tgl_jual`, `jam`, `grand_total`, `dibayar`, `kembalian`, `id_user`) VALUES (:no_faktur:, :tgl_jual:, :jam:, :grand_total:, :dibayar:, :kembalian:, :id_user:)', [...], false)
+ 4 APPPATH\Models\ModelPenjualan.php(40): CodeIgniter\Database\BaseBuilder->insert([...])
+ 5 APPPATH\Controllers\Penjualan.php(119): App\Models\ModelPenjualan->InsertJual([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penjualan->SimpanTransaksi()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-04-07 21:24:55 --> [Caused by] mysqli_sql_exception: Unknown column 'id_user' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 327.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(327): mysqli->query('INSERT INTO `tbl_jual` (`no_faktur`, `tgl_jual`, `jam`, `grand_total`, `dibayar`, `kembalian`, `id_user`) VALUES (\'202504070001\', \'2025-04-07\', \'21:24:55\', 1250000, \'1500000\', \'250000\', \'1\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tbl_jual` (`no_faktur`, `tgl_jual`, `jam`, `grand_total`, `dibayar`, `kembalian`, `id_user`) VALUES (\'202504070001\', \'2025-04-07\', \'21:24:55\', 1250000, \'1500000\', \'250000\', \'1\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tbl_jual` (`no_faktur`, `tgl_jual`, `jam`, `grand_total`, `dibayar`, `kembalian`, `id_user`) VALUES (\'202504070001\', \'2025-04-07\', \'21:24:55\', 1250000, \'1500000\', \'250000\', \'1\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_jual` (`no_faktur`, `tgl_jual`, `jam`, `grand_total`, `dibayar`, `kembalian`, `id_user`) VALUES (:no_faktur:, :tgl_jual:, :jam:, :grand_total:, :dibayar:, :kembalian:, :id_user:)', [...], false)
+ 5 APPPATH\Models\ModelPenjualan.php(40): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\Penjualan.php(119): App\Models\ModelPenjualan->InsertJual([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penjualan->SimpanTransaksi()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-04-07 21:26:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 21:26:11 --> Cart Class Initialized
+DEBUG - 2025-04-07 21:26:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 21:26:15 --> Cart Class Initialized
+DEBUG - 2025-04-07 21:27:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 21:27:58 --> Cart Class Initialized
+DEBUG - 2025-04-07 21:28:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 21:28:01 --> Cart Class Initialized
+ERROR - 2025-04-07 21:28:01 --> Invalid product ID.  The product ID can only contain alpha-numeric characters, dashes, and underscores
+DEBUG - 2025-04-07 21:28:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 21:28:01 --> Cart Class Initialized
+DEBUG - 2025-04-07 21:28:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 21:28:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 21:28:09 --> Cart Class Initialized
+DEBUG - 2025-04-07 21:28:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 21:28:09 --> Cart Class Initialized
+DEBUG - 2025-04-07 21:28:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 21:28:21 --> Cart Class Initialized
+ERROR - 2025-04-07 21:28:21 --> mysqli_sql_exception: Unknown column 'id_user' in 'field list' in C:\xampp\htdocs\kasir-ci4\system\Database\MySQLi\Connection.php:327
+Stack trace:
+#0 C:\xampp\htdocs\kasir-ci4\system\Database\MySQLi\Connection.php(327): mysqli->query('INSERT INTO `tb...', 0)
+#1 C:\xampp\htdocs\kasir-ci4\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb...')
+#2 C:\xampp\htdocs\kasir-ci4\system\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb...')
+#3 C:\xampp\htdocs\kasir-ci4\system\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb...', Array, false)
+#4 C:\xampp\htdocs\kasir-ci4\app\Models\ModelPenjualan.php(40): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\kasir-ci4\app\Controllers\Penjualan.php(119): App\Models\ModelPenjualan->InsertJual(Array)
+#6 C:\xampp\htdocs\kasir-ci4\system\CodeIgniter.php(933): App\Controllers\Penjualan->SimpanTransaksi()
+#7 C:\xampp\htdocs\kasir-ci4\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#8 C:\xampp\htdocs\kasir-ci4\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\kasir-ci4\system\Boot.php(334): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\kasir-ci4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\xampp\htdocs\kasir-ci4\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2025-04-07 21:28:21 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'id_user' in 'field list'
+[Method: POST, Route: Penjualan/SimpanTransaksi]
+in SYSTEMPATH\Database\BaseConnection.php on line 692.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_jual` (`no_faktur`, `tgl_jual`, `jam`, `grand_total`, `dibayar`, `kembalian`, `id_user`) VALUES (:no_faktur:, :tgl_jual:, :jam:, :grand_total:, :dibayar:, :kembalian:, :id_user:)', [...], false)
+ 2 APPPATH\Models\ModelPenjualan.php(40): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\Penjualan.php(119): App\Models\ModelPenjualan->InsertJual([...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penjualan->SimpanTransaksi()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-04-07 21:28:21 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'id_user' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 332.
+ 1 SYSTEMPATH\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tbl_jual` (`no_faktur`, `tgl_jual`, `jam`, `grand_total`, `dibayar`, `kembalian`, `id_user`) VALUES (\'202504070001\', \'2025-04-07\', \'21:28:21\', 1745000, \'1800000\', \'55000\', \'1\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tbl_jual` (`no_faktur`, `tgl_jual`, `jam`, `grand_total`, `dibayar`, `kembalian`, `id_user`) VALUES (\'202504070001\', \'2025-04-07\', \'21:28:21\', 1745000, \'1800000\', \'55000\', \'1\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_jual` (`no_faktur`, `tgl_jual`, `jam`, `grand_total`, `dibayar`, `kembalian`, `id_user`) VALUES (:no_faktur:, :tgl_jual:, :jam:, :grand_total:, :dibayar:, :kembalian:, :id_user:)', [...], false)
+ 4 APPPATH\Models\ModelPenjualan.php(40): CodeIgniter\Database\BaseBuilder->insert([...])
+ 5 APPPATH\Controllers\Penjualan.php(119): App\Models\ModelPenjualan->InsertJual([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penjualan->SimpanTransaksi()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-04-07 21:28:21 --> [Caused by] mysqli_sql_exception: Unknown column 'id_user' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 327.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(327): mysqli->query('INSERT INTO `tbl_jual` (`no_faktur`, `tgl_jual`, `jam`, `grand_total`, `dibayar`, `kembalian`, `id_user`) VALUES (\'202504070001\', \'2025-04-07\', \'21:28:21\', 1745000, \'1800000\', \'55000\', \'1\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tbl_jual` (`no_faktur`, `tgl_jual`, `jam`, `grand_total`, `dibayar`, `kembalian`, `id_user`) VALUES (\'202504070001\', \'2025-04-07\', \'21:28:21\', 1745000, \'1800000\', \'55000\', \'1\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tbl_jual` (`no_faktur`, `tgl_jual`, `jam`, `grand_total`, `dibayar`, `kembalian`, `id_user`) VALUES (\'202504070001\', \'2025-04-07\', \'21:28:21\', 1745000, \'1800000\', \'55000\', \'1\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_jual` (`no_faktur`, `tgl_jual`, `jam`, `grand_total`, `dibayar`, `kembalian`, `id_user`) VALUES (:no_faktur:, :tgl_jual:, :jam:, :grand_total:, :dibayar:, :kembalian:, :id_user:)', [...], false)
+ 5 APPPATH\Models\ModelPenjualan.php(40): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\Penjualan.php(119): App\Models\ModelPenjualan->InsertJual([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penjualan->SimpanTransaksi()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-04-07 21:31:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 21:31:00 --> Cart Class Initialized
+DEBUG - 2025-04-07 21:31:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 21:31:03 --> Cart Class Initialized
+DEBUG - 2025-04-07 21:34:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 21:34:12 --> Cart Class Initialized
+DEBUG - 2025-04-07 21:34:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 21:34:18 --> Cart Class Initialized
+DEBUG - 2025-04-07 21:34:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 21:34:18 --> Cart Class Initialized
+DEBUG - 2025-04-07 21:35:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 21:35:19 --> Cart Class Initialized
+DEBUG - 2025-04-07 21:35:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 21:35:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 21:35:25 --> Cart Class Initialized
+DEBUG - 2025-04-07 21:35:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 21:35:25 --> Cart Class Initialized
+DEBUG - 2025-04-07 21:35:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 21:35:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 21:35:33 --> Cart Class Initialized
+DEBUG - 2025-04-07 21:35:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 21:35:33 --> Cart Class Initialized
+DEBUG - 2025-04-07 21:35:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 21:35:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 21:35:43 --> Cart Class Initialized
+DEBUG - 2025-04-07 21:35:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 21:35:43 --> Cart Class Initialized
+DEBUG - 2025-04-07 21:35:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 21:35:56 --> Cart Class Initialized
+DEBUG - 2025-04-07 21:35:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 21:35:56 --> Cart Class Initialized
+DEBUG - 2025-04-07 21:36:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 21:36:08 --> Cart Class Initialized
+DEBUG - 2025-04-07 21:37:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 21:39:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 21:41:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 21:42:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 21:42:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 21:50:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 21:51:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-04-07 21:51:52 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "v_template_print_laporan.php"
+[Method: GET, Route: laporan/PrintDataProduk]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('v_template_print_laporan.php')
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('v_template_print_laporan', [], true)
+ 3 APPPATH\Controllers\Laporan.php(27): view('v_template_print_laporan', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Laporan->PrintDataProduk()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-04-07 21:52:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-04-07 21:52:13 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "laporan/v_template_print_laporan.php"
+[Method: GET, Route: laporan/PrintDataProduk]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('laporan/v_template_print_laporan.php')
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('laporan/v_template_print_laporan', [], true)
+ 3 APPPATH\Controllers\Laporan.php(27): view('laporan/v_template_print_laporan', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Laporan->PrintDataProduk()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-04-07 21:53:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-04-07 21:53:18 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "laporan/v_template_print_laporan.php"
+[Method: GET, Route: laporan/PrintDataProduk]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('laporan/v_template_print_laporan.php')
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('laporan/v_template_print_laporan', [], true)
+ 3 APPPATH\Controllers\Laporan.php(27): view('laporan/v_template_print_laporan', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Laporan->PrintDataProduk()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-04-07 21:54:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 21:56:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:00:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:03:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:04:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:05:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:05:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:07:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:07:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:07:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:08:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:08:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:08:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:10:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:10:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:10:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:10:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:10:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:11:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:11:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:11:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:12:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:13:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:14:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:15:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:16:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:16:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:17:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:18:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:19:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:19:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:20:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:20:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:20:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:21:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:21:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:21:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:22:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:22:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:23:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:23:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:24:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:24:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:26:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:27:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-04-07 22:27:32 --> ErrorException: Undefined variable $page
+[Method: GET, Route: laporan/PrintDataProduk]
+in APPPATH\Views\laporan\v_tamplate_print_laporan.php on line 40.
+ 1 APPPATH\Views\laporan\v_tamplate_print_laporan.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $page', 'C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\laporan\\v_tamplate_print_laporan.php', 40)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\laporan\\v_tamplate_print_laporan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('laporan/v_tamplate_print_laporan', [], true)
+ 5 APPPATH\Controllers\Laporan.php(31): view('laporan/v_tamplate_print_laporan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Laporan->PrintDataProduk()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-04-07 22:28:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:29:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:30:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:31:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:31:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:32:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:33:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:36:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:36:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:36:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:37:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:37:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:38:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:39:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:40:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:41:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:41:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:43:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:43:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:45:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:45:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:46:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:46:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:46:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:46:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:46:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:46:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:46:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:47:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:48:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:48:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:48:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:48:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:52:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:52:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:52:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 22:52:37 --> Cart Class Initialized
+DEBUG - 2025-04-07 22:56:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 22:56:08 --> Cart Class Initialized
+DEBUG - 2025-04-07 22:56:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 22:56:56 --> Cart Class Initialized
+DEBUG - 2025-04-07 22:57:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:57:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 22:57:40 --> Cart Class Initialized
+DEBUG - 2025-04-07 22:58:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 22:58:01 --> Cart Class Initialized
+DEBUG - 2025-04-07 22:59:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 22:59:01 --> Cart Class Initialized
+DEBUG - 2025-04-07 22:59:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:59:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 22:59:09 --> Cart Class Initialized
+DEBUG - 2025-04-07 22:59:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 22:59:09 --> Cart Class Initialized
+DEBUG - 2025-04-07 22:59:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 22:59:13 --> Cart Class Initialized
+DEBUG - 2025-04-07 22:59:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 22:59:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 22:59:38 --> Cart Class Initialized
+DEBUG - 2025-04-07 22:59:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 22:59:38 --> Cart Class Initialized
+DEBUG - 2025-04-07 22:59:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 22:59:43 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:02:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 23:02:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:02:13 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:02:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:02:13 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:02:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 23:02:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:02:29 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:02:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:02:29 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:02:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:02:33 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:03:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:03:56 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:04:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:04:02 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:04:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:04:02 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:06:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 23:06:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:06:40 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:06:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:06:41 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:06:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 23:06:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:06:48 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:06:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:06:48 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:06:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:06:54 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:06:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:06:54 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:07:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 23:07:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:07:39 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:07:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:07:39 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:07:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 23:07:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:07:42 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:07:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:07:42 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:07:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:07:48 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:07:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:07:48 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:14:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:14:01 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:14:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:14:05 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:14:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:14:21 --> Cart Class Initialized
+ERROR - 2025-04-07 23:14:21 --> An invalid name was submitted as the product name:  The name can only contain alpha-numeric characters, dashes, underscores, colons, and spaces
+DEBUG - 2025-04-07 23:14:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:14:21 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:14:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 23:14:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:14:26 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:14:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:14:26 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:14:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 23:14:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:14:29 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:14:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:14:29 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:14:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 23:14:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:14:31 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:14:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:14:31 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:14:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:14:37 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:14:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:14:37 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:14:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:14:42 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:14:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:14:54 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:17:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:17:34 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:17:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 23:17:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 23:20:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:20:18 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:20:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 23:20:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 23:20:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:20:25 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:20:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:20:26 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:20:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:20:28 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:21:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:21:19 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:21:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 23:21:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:21:21 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:21:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:21:21 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:25:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 23:25:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:25:38 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:25:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:25:39 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:25:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:25:49 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:26:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 23:26:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:26:29 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:26:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:26:30 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:31:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:31:09 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:31:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 23:31:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:31:17 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:31:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:31:17 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:32:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:32:07 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:32:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 23:32:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:32:11 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:32:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:32:12 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:32:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:32:24 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:32:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:32:24 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:32:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 23:32:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:32:27 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:32:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:32:27 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:32:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 23:32:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:32:42 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:32:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:32:42 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:33:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 23:34:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:34:00 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:34:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:34:00 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:34:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:34:10 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:35:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:35:24 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:35:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:35:24 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:39:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 23:39:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:39:08 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:39:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:39:08 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:39:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 23:39:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:39:19 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:39:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:39:19 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:39:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 23:39:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:39:30 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:39:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:39:30 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:39:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:39:40 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:39:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:39:40 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:42:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:42:54 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:42:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:42:57 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:42:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 23:42:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:43:00 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:43:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:43:00 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:43:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 23:43:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:43:05 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:43:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:43:05 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:43:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:43:09 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:44:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 23:44:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:44:45 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:44:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:44:45 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:44:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-07 23:44:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:44:53 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:44:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:44:53 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:44:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:44:58 --> Cart Class Initialized
+DEBUG - 2025-04-07 23:44:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-07 23:44:58 --> Cart Class Initialized
