@@ -12,11 +12,13 @@ class Laporan extends BaseController
     protected $ModelProduk;
     protected $ModelAdmin;
     protected $ModelLaporan;
+    protected $db;
 
     public function __construct() {
         $this->ModelProduk = new ModelProduk();
-        $this->ModelAdmin = new ModelAdmin();
         $this->ModelLaporan = new ModelLaporan();
+        $this->db = \Config\Database::connect();
+        $this->ModelAdmin = new ModelAdmin();
     }
     public function PrintDataProduk() {
         $data = [
@@ -30,6 +32,7 @@ class Laporan extends BaseController
     }
 
     public function LaporanHarian() {
+        $tgl = date('Y-m-d');
         $data = [
             'judul' => 'Laporan',
             'subjudul' => 'Laporan Harian',
@@ -151,5 +154,18 @@ class Laporan extends BaseController
         ];
         return view('laporan/v_tamplate_print_laporan', $data);
     }
+
+    public function UpdateStatusPembayaran() {
+        $no_faktur = $this->request->getPost('no_faktur');
+        $status_pembayaran = $this->request->getPost('status_pembayaran');
+    
+        // Update status pembayaran di database
+        $this->db->table('tbl_jual')
+                 ->where('no_faktur', $no_faktur)
+                 ->update(['status_pembayaran' => $status_pembayaran]);
+    
+        return json_encode(['success' => true]);
+    }
+    
 
 }

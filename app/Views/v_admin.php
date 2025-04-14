@@ -91,7 +91,7 @@
 
     <div class="info-box-content">
       <span class="info-box-text">Pendapatan Tahun Ini</span>
-      <span class="info-box-number">Rp <?= number_format($p_tahun_ini['total_harga'] ??0, 0) ?></span>
+      <span class="info-box-number">Rp <?= number_format($p_tahun_ini['total_harga'] ?? 0, 0) ?></span>
     </div>
     <!-- /.info-box-content -->
   </div>
@@ -107,7 +107,6 @@ if ($grafik == null) {
   $tgl[] = 0;
   $total[] = 0;
   $untung[] = 0;
-
 } else {
   foreach ($grafik as $key => $value) {
     $tgl[] = $value['tgl_jual'];
@@ -116,8 +115,51 @@ if ($grafik == null) {
   }
 }
 
-
 ?>
+
+<!-- Memunculkan Pesanan Terbaru -->
+<div class="row mt-4">
+  <div class="col-lg-12">
+    <div class="card">
+      <div class="card-header bg-primary text-white">
+        <h4 class="mb-0">Pesanan Terbaru</h4>
+      </div>
+      <div class="card-body">
+        <div class="table-responsive">
+          <table class="table table-bordered table-hover">
+            <thead class="thead-light">
+              <tr>
+                <th>No Faktur</th>
+                <th>Tanggal & Waktu</th>
+                <th>Harga</th>
+                <th>Status</th>
+              </tr>
+            </thead>
+            <tbody>
+            <?php foreach ($pesanan_terbaru as $order): ?>
+              <tr>
+                <td><?= $order['no_faktur']; ?></td>
+                <td><?= date('d-m-Y', strtotime($order['tgl_jual'])); ?></td>
+                <td>Rp <?= number_format($order['grand_total'], 0, ',', '.'); ?></td>
+                <td class="text-center">
+                    <select 
+                        class="form-control status-dropdown" 
+                        data-nofaktur="<?= $order['no_faktur'] ?>" 
+                        style="min-width: 120px;">
+                        <option value="pending" <?= ($order['status_pembayaran'] == 'pending') ? 'selected' : '' ?>>Pending</option>
+                        <option value="success" <?= ($order['status_pembayaran'] == 'success') ? 'selected' : '' ?>>Success</option>
+                        <option value="failed" <?= ($order['status_pembayaran'] == 'failed') ? 'selected' : '' ?>>Failed</option>
+                    </select>
+                </td>
+            </tr>
+        <?php endforeach; ?>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 
 <script>
   const ctx = document.getElementById('myChart');
@@ -161,3 +203,35 @@ if ($grafik == null) {
     }
   });
 </script>
+
+<script>
+$(document).ready(function() {
+    $('.status-dropdown').change(function() {
+        const noFaktur = $(this).data('nofaktur');
+        const newStatus = $(this).val();
+
+        $.ajax({
+            url: '<?= base_url('Admin/UpdateStatusPembayaran') ?>',
+            method: 'POST',
+            headers: {
+                'X-CSRF-TOKEN': '<?= csrf_hash() ?>',
+            },
+            data: {
+                no_faktur: noFaktur,
+                status_pembayaran: newStatus,
+            },
+            success: function(response) {
+                if (response.success) {
+                    alert('Status berhasil diperbarui!');
+                } else {
+                    alert('Gagal memperbarui status.');
+                }
+            },
+            error: function(xhr) {
+                alert('Terjadi kesalahan saat memperbarui status.');
+            }
+        });
+    });
+});
+</script>
+

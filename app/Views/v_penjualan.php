@@ -194,7 +194,9 @@ scratch. This page gets rid of all links and provides the needed markup only.
 
                                                 <a href="<?= base_url('Penjualan/ResetCart') ?>" class="btn btn-flat btn-warning"><i class="fas fa-sync"></i> Reset</a>
 
-                                                <a class="btn btn-flat btn-success" data-toggle="modal" data-target="#pembayaran" onclick="Pembayaran()"><i class="fas fa-cash-register"></i> Pembayaran</a>
+                                                <a class="btn btn-flat btn-success" data-toggle="modal" data-target="#pembayaran" onclick="Pembayaran()"><i class="fas fa-cash-register"></i> Bayar</a>
+
+                                                <button id="btnPrint" class="btn btn-primary" onclick="printInvoice()">Print</button>
 
                                             </div>
                                         </div>
@@ -215,7 +217,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
                                                     <th>Harga Treat</th>
                                                     <th width="100px">Qty</th>
                                                     <th>Total Harga</th>
-                                                    <th></th>
+                                                    <th>Status</th>
                                                 </tr>
                                             </thead>
                                             <tbody>
@@ -231,8 +233,8 @@ scratch. This page gets rid of all links and provides the needed markup only.
                                                         <td class="text-center">
                                                             <a href="<?= base_url('Penjualan/RemoveItemCart/' . $value['rowid']) ?>" class="btn btn-flat btn-danger btn-sm"><i class="fa fa-times"></i></a>
                                                         </td>
-                                                    </tr>
-                                                <?php } ?>
+                                                        <td><?= ucfirst($item['status_pembayaran'] ?? 'pending'); ?></td>
+                                                    <?php } ?>
                                             </tbody>
                                         </table>
                                     </div>
@@ -251,17 +253,17 @@ scratch. This page gets rid of all links and provides the needed markup only.
                             </div>
                         </div>
                     </div>
-    
+
                     <div class="col-12">
-                    <?php
-                    if (session()->getFlashdata('pesan')) {
-                        echo '<div class="alert alert-success alert-dismissible">
-                    <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
-                    <i class="icon fas fa-check"></i>';
-                        echo session()->getFlashdata('pesan');
-                        echo '</div>';
-                    }
-                    ?>
+                        <?php
+                        if (session()->getFlashdata('pesan')) {
+                            echo '<div class="alert alert-success alert-dismissible">
+                <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+                <i class="icon fas fa-check"></i>';
+                            echo session()->getFlashdata('pesan');
+                            echo '</div>';
+                        }
+                        ?>
 
                     </div>
                     <!-- /.col-md-6 -->
@@ -357,17 +359,60 @@ scratch. This page gets rid of all links and provides the needed markup only.
                             </div>
                         </div>
                     </div>
+
                     <div class="modal-footer justify-content-between">
                         <button type="button" class="btn btn-default btn-flat" data-dismiss="modal">Close</button>
                         <button type="submit" class="btn btn-primary btn-flat"><i class="fas fa-save"></i> Simpan Transaksi</button>
                     </div>
-                    <?php echo form_close() ?>
+
+                    <div class="form-group">
+                        <label>Status</label>
+                        <select name="status_pembayaran" class="form-control col-4">
+                            <option value="pending">Pending</option>
+                            <option value="success">Success</option>
+                            <option value="failed">Failed</option>
+                        </select>
+                    </div>
+
                 </div>
                 <!-- /.modal-content -->
             </div>
             <!-- /.modal-dialog -->
         </div>
         <!-- /.modal -->
+
+        <div id="invoiceContent">
+            <h2><b>Invoice</b></h2>
+            <p>No Faktur: <?= $no_faktur; ?></p>
+            <p>Tanggal: <?= date('d M Y'); ?></p>
+            <p>Kasir: <?= session()->get('nama_user') ?></p>
+            <table border="1" style="width: 100%; text-align: left;">
+                <thead>
+                    <tr>
+                        <th>Kode Produk</th>
+                        <th>Nama Produk</th>
+                        <th>Kategori</th>
+                        <th>Harga Treat</th>
+                        <th>Qty</th>
+                        <th>Total Harga</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <?php foreach ($cart as $item): ?>
+                        <tr>
+                            <td><?= $item['id']; ?></td>
+                            <td><?= $item['name']; ?></td>
+                            <td><?= $item['options']['nama_kategori']; ?></td>
+                            <td><?= number_format($item['price'], 0, ',', '.'); ?></td>
+                            <td><?= $item['qty']; ?></td>
+                            <td><?= $item['subtotal']; ?></td>
+                        </tr>
+                    <?php endforeach; ?>
+                </tbody>
+            </table>
+            <h3>Total Harga: Rp <?= number_format($grand_total, 0, ',', '.'); ?></h3>
+        </div>
+        <?php echo form_close() ?>
 
         <!-- Control Sidebar -->
         <aside class="control-sidebar control-sidebar-dark">
@@ -501,6 +546,18 @@ scratch. This page gets rid of all links and provides the needed markup only.
             return e;
         }
     </script>
+
+    <script>
+        function printInvoice() {
+            const printContents = document.getElementById('invoiceContent').innerHTML;
+            const originalContents = document.body.innerHTML;
+
+            document.body.innerHTML = printContents;
+            window.print();
+            document.body.innerHTML = originalContents;
+        }
+    </script>
+
 
 </body>
 

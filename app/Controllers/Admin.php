@@ -4,13 +4,16 @@ namespace App\Controllers;
 
 use App\Controllers\BaseController;
 use App\Models\ModelAdmin;
+use App\Models\ModelLaporan;
 
 class Admin extends BaseController
 {
     protected $ModelAdmin;
+    protected $ModelLaporan;
 
     public function __construct() {
         $this->ModelAdmin = new ModelAdmin();
+        $this->ModelLaporan = new ModelLaporan();
     }
 
     public function index()
@@ -29,7 +32,8 @@ class Admin extends BaseController
             'jml_kategori' => $this->ModelAdmin->JumlahKategori(),
             'jml_satuan' => $this->ModelAdmin->JumlahSatuan(),
             'jml_user' => $this->ModelAdmin->JumlahUser(),
-            
+            'latest_order' => $this->ModelAdmin->LatestOrder(),
+            'pesanan_terbaru' => $this->ModelAdmin->GetPesananTerbaru(),
         ];
         return view('v_template', $data);
     }
@@ -62,5 +66,31 @@ class Admin extends BaseController
 
     public function Cek(){
         echo dd($this->ModelAdmin->PendapatanTahunIni());
+    }
+
+    public function UpdateStatusPembayaran() {
+        // Validasi request AJAX
+        if (!$this->request->isAJAX()) {
+            return $this->response->setStatusCode(403, 'Forbidden');
+        }
+    
+        // Ambil data dari request
+        $noFaktur = $this->request->getPost('no_faktur');
+        $statusPembayaran = $this->request->getPost('status_pembayaran');
+    
+        // Validasi nilai status pembayaran
+        $allowedStatus = ['pending', 'success', 'failed'];
+        if (!in_array($statusPembayaran, $allowedStatus)) {
+            return $this->response->setJSON(['success' => false, 'message' => 'Status tidak valid']);
+        }
+    
+        // Update status pembayaran di database
+        $updated = $this->ModelAdmin->UpdateStatusPembayaran($noFaktur, $statusPembayaran);
+    
+        // Kembalikan response sukses/gagal
+        return $this->response->setJSON([
+            'success' => (bool)$updated,
+            'message' => $updated ? 'Status berhasil diperbarui' : 'Gagal memperbarui status',
+        ]);
     }
 }

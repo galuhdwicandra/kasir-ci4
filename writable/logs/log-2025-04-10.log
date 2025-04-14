@@ -1,0 +1,270 @@
+DEBUG - 2025-04-10 20:02:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-10 20:02:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-10 20:02:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-10 20:02:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-10 20:02:17 --> Cart Class Initialized
+DEBUG - 2025-04-10 20:02:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-10 20:02:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-10 20:02:22 --> Cart Class Initialized
+DEBUG - 2025-04-10 20:02:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-10 20:02:22 --> Cart Class Initialized
+DEBUG - 2025-04-10 20:16:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-10 20:16:29 --> Cart Class Initialized
+DEBUG - 2025-04-10 20:16:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-10 20:16:35 --> Cart Class Initialized
+ERROR - 2025-04-10 20:16:35 --> Invalid product ID.  The product ID can only contain alpha-numeric characters, dashes, and underscores
+DEBUG - 2025-04-10 20:16:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-10 20:16:35 --> Cart Class Initialized
+DEBUG - 2025-04-10 20:16:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-10 20:16:37 --> Cart Class Initialized
+ERROR - 2025-04-10 20:16:37 --> Invalid product ID.  The product ID can only contain alpha-numeric characters, dashes, and underscores
+DEBUG - 2025-04-10 20:16:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-10 20:16:37 --> Cart Class Initialized
+DEBUG - 2025-04-10 20:19:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-10 20:19:13 --> Cart Class Initialized
+DEBUG - 2025-04-10 20:21:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-10 20:21:10 --> Cart Class Initialized
+DEBUG - 2025-04-10 20:22:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-10 20:22:25 --> Cart Class Initialized
+DEBUG - 2025-04-10 20:29:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-10 20:29:37 --> Cart Class Initialized
+DEBUG - 2025-04-10 20:29:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-10 20:29:39 --> Cart Class Initialized
+ERROR - 2025-04-10 20:29:39 --> Invalid product ID.  The product ID can only contain alpha-numeric characters, dashes, and underscores
+DEBUG - 2025-04-10 20:29:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-10 20:29:39 --> Cart Class Initialized
+DEBUG - 2025-04-10 20:29:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-10 20:29:42 --> Cart Class Initialized
+ERROR - 2025-04-10 20:29:42 --> Invalid product ID.  The product ID can only contain alpha-numeric characters, dashes, and underscores
+DEBUG - 2025-04-10 20:29:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-10 20:29:42 --> Cart Class Initialized
+DEBUG - 2025-04-10 20:32:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-10 20:32:40 --> Cart Class Initialized
+DEBUG - 2025-04-10 20:32:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-10 20:32:41 --> Cart Class Initialized
+ERROR - 2025-04-10 20:32:41 --> Invalid product ID.  The product ID can only contain alpha-numeric characters, dashes, and underscores
+DEBUG - 2025-04-10 20:32:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-10 20:32:42 --> Cart Class Initialized
+DEBUG - 2025-04-10 20:32:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-10 20:32:43 --> Cart Class Initialized
+ERROR - 2025-04-10 20:32:43 --> Invalid product ID.  The product ID can only contain alpha-numeric characters, dashes, and underscores
+DEBUG - 2025-04-10 20:32:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-10 20:32:43 --> Cart Class Initialized
+DEBUG - 2025-04-10 20:32:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-10 20:32:45 --> Cart Class Initialized
+ERROR - 2025-04-10 20:32:45 --> Invalid product ID.  The product ID can only contain alpha-numeric characters, dashes, and underscores
+DEBUG - 2025-04-10 20:32:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-10 20:32:45 --> Cart Class Initialized
+DEBUG - 2025-04-10 20:38:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-10 20:38:31 --> Cart Class Initialized
+CRITICAL - 2025-04-10 20:38:31 --> ErrorException: Undefined variable $nama_kasir
+[Method: GET, Route: penjualan]
+in APPPATH\Views\v_penjualan.php on line 281.
+ 1 APPPATH\Views\v_penjualan.php(281): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nama_kasir', 'C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\v_penjualan.php', 281)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\v_penjualan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('v_penjualan', [], true)
+ 5 APPPATH\Controllers\Penjualan.php(27): view('v_penjualan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penjualan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-04-10 20:39:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-10 20:39:34 --> Cart Class Initialized
+CRITICAL - 2025-04-10 20:39:34 --> ErrorException: Undefined variable $nama_kasir
+[Method: GET, Route: penjualan]
+in APPPATH\Views\v_penjualan.php on line 281.
+ 1 APPPATH\Views\v_penjualan.php(281): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nama_kasir', 'C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\v_penjualan.php', 281)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\v_penjualan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('v_penjualan', [], true)
+ 5 APPPATH\Controllers\Penjualan.php(27): view('v_penjualan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penjualan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-04-10 20:39:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-10 20:39:45 --> Cart Class Initialized
+CRITICAL - 2025-04-10 20:39:45 --> ErrorException: Undefined variable $nama_kasir
+[Method: GET, Route: penjualan]
+in APPPATH\Views\v_penjualan.php on line 281.
+ 1 APPPATH\Views\v_penjualan.php(281): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nama_kasir', 'C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\v_penjualan.php', 281)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\v_penjualan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('v_penjualan', [], true)
+ 5 APPPATH\Controllers\Penjualan.php(27): view('v_penjualan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penjualan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-04-10 20:39:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-10 20:39:57 --> Cart Class Initialized
+CRITICAL - 2025-04-10 20:39:57 --> ErrorException: Undefined variable $nama_kasir
+[Method: GET, Route: penjualan]
+in APPPATH\Views\v_penjualan.php on line 281.
+ 1 APPPATH\Views\v_penjualan.php(281): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nama_kasir', 'C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\v_penjualan.php', 281)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\v_penjualan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('v_penjualan', [], true)
+ 5 APPPATH\Controllers\Penjualan.php(27): view('v_penjualan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penjualan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-04-10 20:40:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-10 20:40:27 --> Cart Class Initialized
+CRITICAL - 2025-04-10 20:40:27 --> ErrorException: Undefined variable $nama_kasir
+[Method: GET, Route: penjualan]
+in APPPATH\Views\v_penjualan.php on line 281.
+ 1 APPPATH\Views\v_penjualan.php(281): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nama_kasir', 'C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\v_penjualan.php', 281)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\v_penjualan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('v_penjualan', [], true)
+ 5 APPPATH\Controllers\Penjualan.php(27): view('v_penjualan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penjualan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-04-10 20:40:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-10 20:40:29 --> Cart Class Initialized
+CRITICAL - 2025-04-10 20:40:29 --> ErrorException: Undefined variable $nama_kasir
+[Method: GET, Route: Penjualan]
+in APPPATH\Views\v_penjualan.php on line 281.
+ 1 APPPATH\Views\v_penjualan.php(281): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nama_kasir', 'C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\v_penjualan.php', 281)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\v_penjualan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('v_penjualan', [], true)
+ 5 APPPATH\Controllers\Penjualan.php(27): view('v_penjualan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penjualan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-04-10 20:40:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-10 20:40:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-10 20:40:32 --> Cart Class Initialized
+CRITICAL - 2025-04-10 20:40:32 --> ErrorException: Undefined variable $nama_kasir
+[Method: GET, Route: Penjualan]
+in APPPATH\Views\v_penjualan.php on line 281.
+ 1 APPPATH\Views\v_penjualan.php(281): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nama_kasir', 'C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\v_penjualan.php', 281)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\v_penjualan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('v_penjualan', [], true)
+ 5 APPPATH\Controllers\Penjualan.php(27): view('v_penjualan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penjualan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-04-10 20:41:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-10 20:41:00 --> Cart Class Initialized
+CRITICAL - 2025-04-10 20:41:00 --> Error: Call to a member function contents() on array
+[Method: GET, Route: Penjualan]
+in APPPATH\Views\v_penjualan.php on line 294.
+ 1 SYSTEMPATH\View\View.php(224): include()
+ 2 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('v_penjualan', [], true)
+ 4 APPPATH\Controllers\Penjualan.php(28): view('v_penjualan', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penjualan->index()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-04-10 20:41:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-10 20:41:56 --> Cart Class Initialized
+CRITICAL - 2025-04-10 20:41:56 --> Error: Call to a member function contents() on array
+[Method: GET, Route: Penjualan]
+in APPPATH\Views\v_penjualan.php on line 294.
+ 1 SYSTEMPATH\View\View.php(224): include()
+ 2 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('v_penjualan', [], true)
+ 4 APPPATH\Controllers\Penjualan.php(28): view('v_penjualan', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penjualan->index()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-04-10 20:42:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-10 20:42:27 --> Cart Class Initialized
+CRITICAL - 2025-04-10 20:42:27 --> Error: Call to a member function contents() on array
+[Method: GET, Route: Penjualan]
+in APPPATH\Views\v_penjualan.php on line 294.
+ 1 SYSTEMPATH\View\View.php(224): include()
+ 2 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('v_penjualan', [], true)
+ 4 APPPATH\Controllers\Penjualan.php(28): view('v_penjualan', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penjualan->index()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-04-10 20:44:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-10 20:44:25 --> Cart Class Initialized
+CRITICAL - 2025-04-10 20:44:25 --> Error: Call to a member function contents() on array
+[Method: GET, Route: Penjualan]
+in APPPATH\Views\v_penjualan.php on line 294.
+ 1 SYSTEMPATH\View\View.php(224): include()
+ 2 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('v_penjualan', [], true)
+ 4 APPPATH\Controllers\Penjualan.php(28): view('v_penjualan', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penjualan->index()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-04-10 20:44:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-10 20:44:33 --> Cart Class Initialized
+CRITICAL - 2025-04-10 20:44:33 --> Error: Call to a member function contents() on array
+[Method: GET, Route: Penjualan]
+in APPPATH\Views\v_penjualan.php on line 294.
+ 1 SYSTEMPATH\View\View.php(224): include()
+ 2 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('v_penjualan', [], true)
+ 4 APPPATH\Controllers\Penjualan.php(28): view('v_penjualan', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penjualan->index()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-04-10 20:45:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-10 20:45:05 --> Cart Class Initialized
+CRITICAL - 2025-04-10 20:45:05 --> TypeError: Cannot access offset of type string on string
+[Method: GET, Route: Penjualan]
+in APPPATH\Views\v_penjualan.php on line 227.
+ 1 SYSTEMPATH\View\View.php(224): include()
+ 2 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('v_penjualan', [], true)
+ 4 APPPATH\Controllers\Penjualan.php(28): view('v_penjualan', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penjualan->index()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-04-10 20:46:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-10 20:46:05 --> Cart Class Initialized
+DEBUG - 2025-04-10 20:47:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-10 20:47:43 --> Cart Class Initialized
+DEBUG - 2025-04-10 20:47:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-10 20:47:43 --> Cart Class Initialized
+DEBUG - 2025-04-10 20:47:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-10 20:50:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-10 20:50:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-10 20:50:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

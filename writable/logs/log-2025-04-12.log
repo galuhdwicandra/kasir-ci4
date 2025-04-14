@@ -1,0 +1,502 @@
+DEBUG - 2025-04-12 18:19:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 18:20:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 18:20:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 18:20:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 18:20:17 --> Cart Class Initialized
+DEBUG - 2025-04-12 18:21:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 18:21:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 18:21:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 18:21:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 18:21:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 18:21:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 18:21:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 18:37:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 18:37:31 --> Cart Class Initialized
+DEBUG - 2025-04-12 18:37:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 18:37:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 18:37:46 --> Cart Class Initialized
+DEBUG - 2025-04-12 18:37:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 18:37:46 --> Cart Class Initialized
+DEBUG - 2025-04-12 18:45:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 18:45:03 --> Cart Class Initialized
+CRITICAL - 2025-04-12 18:45:03 --> ErrorException: Undefined variable $item
+[Method: GET, Route: penjualan]
+in APPPATH\Views\v_penjualan.php on line 304.
+ 1 APPPATH\Views\v_penjualan.php(304): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $item', 'C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\v_penjualan.php', 304)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\v_penjualan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('v_penjualan', [], true)
+ 5 APPPATH\Controllers\Penjualan.php(31): view('v_penjualan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Penjualan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-04-12 18:45:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 18:45:26 --> Cart Class Initialized
+DEBUG - 2025-04-12 18:45:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 18:45:37 --> Cart Class Initialized
+DEBUG - 2025-04-12 18:45:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 18:45:37 --> Cart Class Initialized
+DEBUG - 2025-04-12 18:45:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 18:45:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 18:45:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 18:46:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 18:46:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-04-12 18:46:37 --> ErrorException: Undefined variable $item
+[Method: POST, Route: Laporan/ViewLaporanHarian]
+in APPPATH\Views\laporan\v_tabel_laporan_harian.php on line 39.
+ 1 APPPATH\Views\laporan\v_tabel_laporan_harian.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $item', 'C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\laporan\\v_tabel_laporan_harian.php', 39)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\laporan\\v_tabel_laporan_harian.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('laporan/v_tabel_laporan_harian', [], true)
+ 5 APPPATH\Controllers\Laporan.php(57): view('laporan/v_tabel_laporan_harian', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Laporan->ViewLaporanHarian()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-04-12 18:46:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-04-12 18:46:39 --> ErrorException: Undefined variable $item
+[Method: POST, Route: Laporan/ViewLaporanHarian]
+in APPPATH\Views\laporan\v_tabel_laporan_harian.php on line 39.
+ 1 APPPATH\Views\laporan\v_tabel_laporan_harian.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $item', 'C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\laporan\\v_tabel_laporan_harian.php', 39)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\laporan\\v_tabel_laporan_harian.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('laporan/v_tabel_laporan_harian', [], true)
+ 5 APPPATH\Controllers\Laporan.php(57): view('laporan/v_tabel_laporan_harian', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Laporan->ViewLaporanHarian()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-04-12 18:46:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 18:49:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 18:49:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 18:49:08 --> Cart Class Initialized
+DEBUG - 2025-04-12 18:49:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 18:54:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 18:54:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 18:54:11 --> Cart Class Initialized
+DEBUG - 2025-04-12 18:54:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 18:54:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 18:54:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-04-12 18:54:26 --> ErrorException: Undefined variable $item
+[Method: POST, Route: Laporan/ViewLaporanHarian]
+in APPPATH\Views\laporan\v_tabel_laporan_harian.php on line 46.
+ 1 APPPATH\Views\laporan\v_tabel_laporan_harian.php(46): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $item', 'C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\laporan\\v_tabel_laporan_harian.php', 46)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\laporan\\v_tabel_laporan_harian.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('laporan/v_tabel_laporan_harian', [], true)
+ 5 APPPATH\Controllers\Laporan.php(57): view('laporan/v_tabel_laporan_harian', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Laporan->ViewLaporanHarian()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-04-12 18:54:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-04-12 18:54:29 --> ErrorException: Undefined variable $item
+[Method: POST, Route: Laporan/ViewLaporanHarian]
+in APPPATH\Views\laporan\v_tabel_laporan_harian.php on line 46.
+ 1 APPPATH\Views\laporan\v_tabel_laporan_harian.php(46): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $item', 'C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\laporan\\v_tabel_laporan_harian.php', 46)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\laporan\\v_tabel_laporan_harian.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('laporan/v_tabel_laporan_harian', [], true)
+ 5 APPPATH\Controllers\Laporan.php(57): view('laporan/v_tabel_laporan_harian', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Laporan->ViewLaporanHarian()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-04-12 18:55:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 18:55:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 18:55:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-04-12 18:55:58 --> ErrorException: Undefined variable $item
+[Method: POST, Route: Laporan/ViewLaporanHarian]
+in APPPATH\Views\laporan\v_tabel_laporan_harian.php on line 46.
+ 1 APPPATH\Views\laporan\v_tabel_laporan_harian.php(46): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $item', 'C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\laporan\\v_tabel_laporan_harian.php', 46)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\laporan\\v_tabel_laporan_harian.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('laporan/v_tabel_laporan_harian', [], true)
+ 5 APPPATH\Controllers\Laporan.php(57): view('laporan/v_tabel_laporan_harian', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Laporan->ViewLaporanHarian()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-04-12 18:56:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-04-12 18:56:00 --> ErrorException: Undefined variable $item
+[Method: POST, Route: Laporan/ViewLaporanHarian]
+in APPPATH\Views\laporan\v_tabel_laporan_harian.php on line 46.
+ 1 APPPATH\Views\laporan\v_tabel_laporan_harian.php(46): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $item', 'C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\laporan\\v_tabel_laporan_harian.php', 46)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\laporan\\v_tabel_laporan_harian.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('laporan/v_tabel_laporan_harian', [], true)
+ 5 APPPATH\Controllers\Laporan.php(57): view('laporan/v_tabel_laporan_harian', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Laporan->ViewLaporanHarian()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-04-12 18:56:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-04-12 18:56:00 --> ErrorException: Undefined variable $item
+[Method: POST, Route: Laporan/ViewLaporanHarian]
+in APPPATH\Views\laporan\v_tabel_laporan_harian.php on line 46.
+ 1 APPPATH\Views\laporan\v_tabel_laporan_harian.php(46): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $item', 'C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\laporan\\v_tabel_laporan_harian.php', 46)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\laporan\\v_tabel_laporan_harian.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('laporan/v_tabel_laporan_harian', [], true)
+ 5 APPPATH\Controllers\Laporan.php(57): view('laporan/v_tabel_laporan_harian', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Laporan->ViewLaporanHarian()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-04-12 18:56:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-04-12 18:56:00 --> ErrorException: Undefined variable $item
+[Method: POST, Route: Laporan/ViewLaporanHarian]
+in APPPATH\Views\laporan\v_tabel_laporan_harian.php on line 46.
+ 1 APPPATH\Views\laporan\v_tabel_laporan_harian.php(46): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $item', 'C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\laporan\\v_tabel_laporan_harian.php', 46)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\laporan\\v_tabel_laporan_harian.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('laporan/v_tabel_laporan_harian', [], true)
+ 5 APPPATH\Controllers\Laporan.php(57): view('laporan/v_tabel_laporan_harian', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Laporan->ViewLaporanHarian()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-04-12 18:56:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-04-12 18:56:01 --> ErrorException: Undefined variable $item
+[Method: POST, Route: Laporan/ViewLaporanHarian]
+in APPPATH\Views\laporan\v_tabel_laporan_harian.php on line 46.
+ 1 APPPATH\Views\laporan\v_tabel_laporan_harian.php(46): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $item', 'C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\laporan\\v_tabel_laporan_harian.php', 46)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\laporan\\v_tabel_laporan_harian.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('laporan/v_tabel_laporan_harian', [], true)
+ 5 APPPATH\Controllers\Laporan.php(57): view('laporan/v_tabel_laporan_harian', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Laporan->ViewLaporanHarian()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-04-12 18:56:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 18:56:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-04-12 18:56:17 --> ErrorException: Undefined variable $item
+[Method: POST, Route: Laporan/ViewLaporanHarian]
+in APPPATH\Views\laporan\v_tabel_laporan_harian.php on line 46.
+ 1 APPPATH\Views\laporan\v_tabel_laporan_harian.php(46): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $item', 'C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\laporan\\v_tabel_laporan_harian.php', 46)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\laporan\\v_tabel_laporan_harian.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('laporan/v_tabel_laporan_harian', [], true)
+ 5 APPPATH\Controllers\Laporan.php(57): view('laporan/v_tabel_laporan_harian', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Laporan->ViewLaporanHarian()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-04-12 18:56:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 18:56:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 19:00:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:00:37 --> Cart Class Initialized
+DEBUG - 2025-04-12 19:00:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 19:01:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:01:03 --> Cart Class Initialized
+DEBUG - 2025-04-12 19:01:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 19:01:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:01:08 --> Cart Class Initialized
+DEBUG - 2025-04-12 19:01:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:01:08 --> Cart Class Initialized
+DEBUG - 2025-04-12 19:01:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:01:18 --> Cart Class Initialized
+DEBUG - 2025-04-12 19:01:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:01:18 --> Cart Class Initialized
+DEBUG - 2025-04-12 19:01:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 19:01:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 19:01:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 19:02:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 19:02:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 19:02:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:02:57 --> Cart Class Initialized
+DEBUG - 2025-04-12 19:03:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:03:44 --> Cart Class Initialized
+DEBUG - 2025-04-12 19:06:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 19:06:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:06:03 --> Cart Class Initialized
+DEBUG - 2025-04-12 19:06:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:06:03 --> Cart Class Initialized
+DEBUG - 2025-04-12 19:06:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:06:33 --> Cart Class Initialized
+DEBUG - 2025-04-12 19:06:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:06:33 --> Cart Class Initialized
+DEBUG - 2025-04-12 19:07:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 19:07:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 19:07:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 19:07:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 19:09:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 19:09:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:09:24 --> Cart Class Initialized
+DEBUG - 2025-04-12 19:09:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 19:09:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:09:32 --> Cart Class Initialized
+DEBUG - 2025-04-12 19:09:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:09:32 --> Cart Class Initialized
+DEBUG - 2025-04-12 19:09:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:09:37 --> Cart Class Initialized
+DEBUG - 2025-04-12 19:09:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:09:37 --> Cart Class Initialized
+DEBUG - 2025-04-12 19:10:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:10:23 --> Cart Class Initialized
+DEBUG - 2025-04-12 19:11:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:11:56 --> Cart Class Initialized
+DEBUG - 2025-04-12 19:11:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 19:12:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 19:12:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 19:12:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 19:12:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 19:12:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 19:12:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 19:13:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 19:13:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 19:13:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 19:14:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 19:14:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 19:14:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 19:14:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 19:16:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 19:16:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 19:16:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 19:17:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 19:17:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 19:22:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 19:22:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:22:09 --> Cart Class Initialized
+DEBUG - 2025-04-12 19:22:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:22:20 --> Cart Class Initialized
+DEBUG - 2025-04-12 19:22:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:22:20 --> Cart Class Initialized
+DEBUG - 2025-04-12 19:22:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 19:22:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 19:22:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-04-12 19:22:54 --> ErrorException: Undefined variable $item
+[Method: POST, Route: Laporan/ViewLaporanHarian]
+in APPPATH\Views\laporan\v_tabel_laporan_harian.php on line 46.
+ 1 APPPATH\Views\laporan\v_tabel_laporan_harian.php(46): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $item', 'C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\laporan\\v_tabel_laporan_harian.php', 46)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\laporan\\v_tabel_laporan_harian.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('laporan/v_tabel_laporan_harian', [], true)
+ 5 APPPATH\Controllers\Laporan.php(57): view('laporan/v_tabel_laporan_harian', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Laporan->ViewLaporanHarian()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-04-12 19:22:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-04-12 19:22:55 --> ErrorException: Undefined variable $item
+[Method: POST, Route: Laporan/ViewLaporanHarian]
+in APPPATH\Views\laporan\v_tabel_laporan_harian.php on line 46.
+ 1 APPPATH\Views\laporan\v_tabel_laporan_harian.php(46): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $item', 'C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\laporan\\v_tabel_laporan_harian.php', 46)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\laporan\\v_tabel_laporan_harian.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('laporan/v_tabel_laporan_harian', [], true)
+ 5 APPPATH\Controllers\Laporan.php(57): view('laporan/v_tabel_laporan_harian', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Laporan->ViewLaporanHarian()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-04-12 19:23:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 19:23:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-04-12 19:23:08 --> ErrorException: Undefined variable $item
+[Method: POST, Route: Laporan/ViewLaporanHarian]
+in APPPATH\Views\laporan\v_tabel_laporan_harian.php on line 46.
+ 1 APPPATH\Views\laporan\v_tabel_laporan_harian.php(46): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $item', 'C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\laporan\\v_tabel_laporan_harian.php', 46)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\laporan\\v_tabel_laporan_harian.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('laporan/v_tabel_laporan_harian', [], true)
+ 5 APPPATH\Controllers\Laporan.php(57): view('laporan/v_tabel_laporan_harian', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Laporan->ViewLaporanHarian()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-04-12 19:23:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 19:23:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 19:23:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 19:23:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-04-12 19:23:50 --> ErrorException: Undefined variable $item
+[Method: POST, Route: Laporan/ViewLaporanHarian]
+in APPPATH\Views\laporan\v_tabel_laporan_harian.php on line 47.
+ 1 APPPATH\Views\laporan\v_tabel_laporan_harian.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $item', 'C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\laporan\\v_tabel_laporan_harian.php', 47)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\laporan\\v_tabel_laporan_harian.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('laporan/v_tabel_laporan_harian', [], true)
+ 5 APPPATH\Controllers\Laporan.php(57): view('laporan/v_tabel_laporan_harian', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Laporan->ViewLaporanHarian()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-04-12 19:23:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-04-12 19:23:51 --> ErrorException: Undefined variable $item
+[Method: POST, Route: Laporan/ViewLaporanHarian]
+in APPPATH\Views\laporan\v_tabel_laporan_harian.php on line 47.
+ 1 APPPATH\Views\laporan\v_tabel_laporan_harian.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $item', 'C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\laporan\\v_tabel_laporan_harian.php', 47)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\laporan\\v_tabel_laporan_harian.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('laporan/v_tabel_laporan_harian', [], true)
+ 5 APPPATH\Controllers\Laporan.php(57): view('laporan/v_tabel_laporan_harian', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Laporan->ViewLaporanHarian()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-04-12 19:23:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-04-12 19:23:51 --> ErrorException: Undefined variable $item
+[Method: POST, Route: Laporan/ViewLaporanHarian]
+in APPPATH\Views\laporan\v_tabel_laporan_harian.php on line 47.
+ 1 APPPATH\Views\laporan\v_tabel_laporan_harian.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $item', 'C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\laporan\\v_tabel_laporan_harian.php', 47)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\laporan\\v_tabel_laporan_harian.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('laporan/v_tabel_laporan_harian', [], true)
+ 5 APPPATH\Controllers\Laporan.php(57): view('laporan/v_tabel_laporan_harian', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Laporan->ViewLaporanHarian()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-04-12 19:23:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-04-12 19:23:51 --> ErrorException: Undefined variable $item
+[Method: POST, Route: Laporan/ViewLaporanHarian]
+in APPPATH\Views\laporan\v_tabel_laporan_harian.php on line 47.
+ 1 APPPATH\Views\laporan\v_tabel_laporan_harian.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $item', 'C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\laporan\\v_tabel_laporan_harian.php', 47)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\laporan\\v_tabel_laporan_harian.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('laporan/v_tabel_laporan_harian', [], true)
+ 5 APPPATH\Controllers\Laporan.php(57): view('laporan/v_tabel_laporan_harian', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Laporan->ViewLaporanHarian()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-04-12 19:23:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-04-12 19:23:51 --> ErrorException: Undefined variable $item
+[Method: POST, Route: Laporan/ViewLaporanHarian]
+in APPPATH\Views\laporan\v_tabel_laporan_harian.php on line 47.
+ 1 APPPATH\Views\laporan\v_tabel_laporan_harian.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $item', 'C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\laporan\\v_tabel_laporan_harian.php', 47)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\laporan\\v_tabel_laporan_harian.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('laporan/v_tabel_laporan_harian', [], true)
+ 5 APPPATH\Controllers\Laporan.php(57): view('laporan/v_tabel_laporan_harian', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Laporan->ViewLaporanHarian()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-04-12 19:24:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 19:24:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 19:24:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:24:38 --> Cart Class Initialized
+DEBUG - 2025-04-12 19:26:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:26:24 --> Cart Class Initialized
+DEBUG - 2025-04-12 19:26:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:26:36 --> Cart Class Initialized
+DEBUG - 2025-04-12 19:27:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:27:42 --> Cart Class Initialized
+DEBUG - 2025-04-12 19:27:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:27:56 --> Cart Class Initialized
+DEBUG - 2025-04-12 19:28:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:28:07 --> Cart Class Initialized
+DEBUG - 2025-04-12 19:28:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:28:14 --> Cart Class Initialized
+DEBUG - 2025-04-12 19:28:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:28:21 --> Cart Class Initialized
+DEBUG - 2025-04-12 19:28:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:28:28 --> Cart Class Initialized
+DEBUG - 2025-04-12 19:28:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:28:36 --> Cart Class Initialized
+DEBUG - 2025-04-12 19:28:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:28:42 --> Cart Class Initialized
+DEBUG - 2025-04-12 19:28:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:28:51 --> Cart Class Initialized
+DEBUG - 2025-04-12 19:29:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:29:16 --> Cart Class Initialized
+DEBUG - 2025-04-12 19:29:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:29:30 --> Cart Class Initialized
+DEBUG - 2025-04-12 19:30:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:30:07 --> Cart Class Initialized
+DEBUG - 2025-04-12 19:30:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:30:13 --> Cart Class Initialized
+DEBUG - 2025-04-12 19:30:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:30:13 --> Cart Class Initialized
+DEBUG - 2025-04-12 19:31:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:31:00 --> Cart Class Initialized
+DEBUG - 2025-04-12 19:31:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:31:34 --> Cart Class Initialized
+DEBUG - 2025-04-12 19:31:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:31:45 --> Cart Class Initialized
+ERROR - 2025-04-12 19:31:45 --> An invalid name was submitted as the product name:  The name can only contain alpha-numeric characters, dashes, underscores, colons, and spaces
+DEBUG - 2025-04-12 19:31:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:31:46 --> Cart Class Initialized
+DEBUG - 2025-04-12 19:31:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 19:31:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:31:50 --> Cart Class Initialized
+DEBUG - 2025-04-12 19:31:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:31:50 --> Cart Class Initialized
+DEBUG - 2025-04-12 19:33:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:33:10 --> Cart Class Initialized
+DEBUG - 2025-04-12 19:33:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:33:42 --> Cart Class Initialized
+DEBUG - 2025-04-12 19:36:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:36:13 --> Cart Class Initialized
+DEBUG - 2025-04-12 19:36:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:36:19 --> Cart Class Initialized
+DEBUG - 2025-04-12 19:36:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:36:39 --> Cart Class Initialized
+DEBUG - 2025-04-12 19:36:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:36:55 --> Cart Class Initialized
+DEBUG - 2025-04-12 19:37:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:37:28 --> Cart Class Initialized
+DEBUG - 2025-04-12 19:37:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:37:32 --> Cart Class Initialized
+ERROR - 2025-04-12 19:37:32 --> An invalid name was submitted as the product name:  The name can only contain alpha-numeric characters, dashes, underscores, colons, and spaces
+DEBUG - 2025-04-12 19:37:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:37:32 --> Cart Class Initialized
+DEBUG - 2025-04-12 19:37:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-04-12 19:37:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:37:38 --> Cart Class Initialized
+DEBUG - 2025-04-12 19:37:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:37:38 --> Cart Class Initialized
+DEBUG - 2025-04-12 19:37:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:37:40 --> Cart Class Initialized
+DEBUG - 2025-04-12 19:37:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:37:41 --> Cart Class Initialized
+DEBUG - 2025-04-12 19:37:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:37:41 --> Cart Class Initialized
+DEBUG - 2025-04-12 19:37:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:37:41 --> Cart Class Initialized
+DEBUG - 2025-04-12 19:39:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:39:06 --> Cart Class Initialized
+DEBUG - 2025-04-12 19:39:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:39:11 --> Cart Class Initialized
+DEBUG - 2025-04-12 19:39:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-12 19:39:18 --> Cart Class Initialized

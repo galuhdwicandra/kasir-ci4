@@ -10,7 +10,7 @@
                 <div class="col-sm-6">
                     <div class="form-group row">
                         <label class="col-sm-2 col-form-label">Tanggal: </label>
-                        <div class="col-10 input-group">
+                        <div class="col- input-group">
                             <input type="date" name="tgl" id="tgl" class="form-control">
                             <span class="input-group-append">
                                 <button onclick="ViewTabelLaporan()" class="btn btn-primary btn-flat" data-toggle="modal" data-target="#cari-produk">
@@ -22,7 +22,7 @@
                             </span>
                         </div>
                     </div>
-                </div>                
+                </div>
                 <div class="col-sm-12">
                     <hr>
                     <div class="Tabel">
@@ -39,30 +39,30 @@
     function ViewTabelLaporan() {
         let tgl = $('#tgl').val();
         if (tgl == "") {
-            Swal.fire("Tanggal Harus Diisi");            
-        } else { 
-        $.ajax({
-            type: "POST",
-            url: "<?= base_url('Laporan/ViewLaporanHarian') ?>",
-            data: {
-                tgl: tgl,
-            },
-            dataType: "JSON",
-            success: function (response) {
-                if (response.data) {
-                    $('.Tabel').html(response.data);
+            Swal.fire("Tanggal Harus Diisi");
+        } else {
+            $.ajax({
+                type: "POST",
+                url: "<?= base_url('Laporan/ViewLaporanHarian') ?>",
+                data: {
+                    tgl: tgl,
+                },
+                dataType: "JSON",
+                success: function(response) {
+                    if (response.data) {
+                        $('.Tabel').html(response.data);
+                    }
                 }
-            }
-        });
-    }
+            });
+        }
     }
 
     function PrintLaporan() {
         let tgl = $('#tgl').val();
         if (tgl == "") {
-            Swal.fire("Tanggal Harus Diisi");            
+            Swal.fire("Tanggal Harus Diisi");
         } else {
-            NewWin=window.open('<?= base_url('Laporan/PrintLaporanHarian') ?>/' + tgl,'NewWin','toolbar=no,width=1100,height=1100,scrollbars=yes');           
+            NewWin = window.open('<?= base_url('Laporan/PrintLaporanHarian') ?>/' + tgl, 'NewWin', 'toolbar=no,width=1100,height=1100,scrollbars=yes');
         }
     }
 </script>

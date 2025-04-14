@@ -43,5 +43,17 @@ class ModelPenjualan extends Model
     public function InsertRinciJual($data){
         $this->db->table('tbl_rinci_jual')->insert($data);
     }
+
+    public function updatePaymentStatus($no_faktur, $status) {
+        return $this->db->table('tbl_jual')
+                       ->where('no_faktur', $no_faktur)
+                       ->update(['status_pembayaran' => $status]);
+    }
     
+    public function getTransactionStatus($no_faktur) {
+        $query = $this->db->query("SELECT status_pembayaran FROM tbl_jual WHERE no_faktur = '$no_faktur'");
+        $result = $query->getRowArray();
+        return $result ? $result['status_pembayaran'] : 'pending';
+    }
+       
 }

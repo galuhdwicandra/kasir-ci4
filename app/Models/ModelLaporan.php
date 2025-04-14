@@ -3,7 +3,6 @@
 namespace App\Models;
 
 use CodeIgniter\Model;
-
 class ModelLaporan extends Model
 {
     public function DataHarian($tgl)
