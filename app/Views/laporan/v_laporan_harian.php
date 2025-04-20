@@ -46,6 +46,7 @@
                 url: "<?= base_url('Laporan/ViewLaporanHarian') ?>",
                 data: {
                     tgl: tgl,
+                    <?= csrf_token() ?>: '<?= csrf_hash() ?>'
                 },
                 dataType: "JSON",
                 success: function(response) {

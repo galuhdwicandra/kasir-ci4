@@ -32,6 +32,7 @@ class User extends BaseController
             'email' => $this->request->getpost('email'),
             'password' => sha1($this->request->getpost('password')),
             'level' => $this->request->getpost('level'),
+            'status' => $this->request->getpost('status', '1'),
         ];
         $this->ModelUser->InsertData($data);
         session()->setFlashdata('pesan', 'Data Berhasil Ditambahkan');
@@ -44,6 +45,7 @@ class User extends BaseController
             'nama_user' => $this->request->getpost('nama_user'),
             'email' => $this->request->getpost('email'),
             'level' => $this->request->getpost('level'),
+            'status' => $this->request->getpost('status'),
         ];
         $this->ModelUser->UpdateData($data);
         session()->setFlashdata('pesan', 'Data Berhasil Diupdate');
@@ -58,4 +60,11 @@ class User extends BaseController
         session()->setFlashdata('pesan', 'Data Berhasil Didelete');
         return redirect()->to(base_url('User'));
     }
+
+    public function changeStatus($id_user, $status){
+        $this->ModelUser->updateStatus($id_user, $status);
+        session()->setFlashdata('pesan', 'Status user berhasil diubah');
+        return redirect()->to(base_url('User'));
+    }
+    
 }

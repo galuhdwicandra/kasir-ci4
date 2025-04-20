@@ -16,8 +16,8 @@ class App extends BaseConfig
      *
      * E.g., http://example.com/
      */
-    // public string $baseURL = 'http://localhost:8080/'; // dengan spark server
-    public string $baseURL = 'http://localhost:8080/kasir-ci4/public/'; // dengna cara biasa
+    // public string $baseURL = 'http://192.168.1.7:8080/'; // dengan spark server
+    public string $baseURL = 'http://192.168.1.10:8080/kasir-ci4/public/'; // dengna cara biasa
 
 
     /**

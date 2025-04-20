@@ -105,26 +105,83 @@ class ModelAdmin extends Model
             ->get()->getResultArray();
     }
 
-    public function GetPesananTerbaru() {
+    public function GetPesananTerbaru()
+    {
         return $this->db->table('tbl_jual')
-                        ->select('no_faktur, tgl_jual, grand_total, status_pembayaran')
-                        ->orderBy('tgl_jual', 'DESC')
-                        ->limit(5) // Batasi jumlah pesanan terbaru
-                        ->get()
-                        ->getResultArray();
-    }
-      
-
-    public function UpdateStatusPesanan($noFaktur, $status) {
-        return $this->db->table('tbl_jual')
-                       ->where('no_faktur', $noFaktur)
-                       ->update(['status_pembayaran' => $status]);
+            ->select('no_faktur, tgl_jual, grand_total, status_pembayaran, nama_konsumen, no_hp, tanggal_masuk, tanggal_selesai, deskripsi, gambar_before, dibayar, kembalian')
+            ->orderBy('tgl_jual', 'DESC')
+            ->get()
+            ->getResultArray();
     }
 
-    public function UpdateStatusPembayaran($noFaktur, $statusPembayaran) {
-    return $this->db->table('tbl_jual')
-                    ->where('no_faktur', $noFaktur)
-                    ->update(['status_pembayaran' => $statusPembayaran]);
-}
+    // Di ModelAdmin.php
+    public function GetAllPesanan()
+    {
+        // Menggunakan paginate bawaan CI4
+        return $this->select('no_faktur, tgl_jual, grand_total, status_pembayaran, nama_konsumen, no_hp, tanggal_masuk, tanggal_selesai, deskripsi')
+            ->orderBy('tgl_jual', 'DESC')
+            ->paginate(10, 'pesanan'); // 10 data per halaman, 'pesanan' adalah nama group
+    }
 
+    public function UpdateStatusPesanan($noFaktur, $status)
+    {
+        return $this->db->table('tbl_jual')
+            ->where('no_faktur', $noFaktur)
+            ->update(['status_pembayaran' => $status]);
+    }
+
+    public function UpdateStatusPembayaran($noFaktur, $statusPembayaran)
+    {
+        return $this->db->table('tbl_jual')
+            ->where('no_faktur', $noFaktur)
+            ->update(['status_pembayaran' => $statusPembayaran]);
+    }
+
+    public function CariPesanan($keyword)
+    {
+        if (empty($keyword)) {
+            return $this->GetPesananTerbaru(); // Return semua data jika tidak ada keyword
+        }
+
+        return $this->db->table('tbl_jual')
+            ->select('no_faktur, tgl_jual, grand_total, status_pembayaran, 
+                      nama_konsumen, no_hp, tanggal_masuk, tanggal_selesai, deskripsi, dibayar, kembalian')
+            ->groupStart()
+            ->like('no_faktur', $keyword)
+            ->orLike('nama_konsumen', $keyword)
+            ->orLike('no_hp', $keyword)
+            ->orLike('deskripsi', $keyword)
+            ->groupEnd()
+            ->orderBy('tgl_jual', 'DESC')
+            ->get()
+            ->getResultArray();
+    }
+
+    public function updatePesanan($no_faktur, $data)
+    {
+        return $this->db->table('tbl_jual')
+            ->where('no_faktur', $no_faktur)
+            ->update($data);
+    }
+
+    public function deletePesanan($no_faktur)
+    {
+        // Hapus dari tabel rinci_jual terlebih dahulu (karena relasi)
+        $this->db->table('tbl_rinci_jual')
+            ->where('no_faktur', $no_faktur)
+            ->delete();
+
+        // Kemudian hapus dari tabel jual
+        return $this->db->table('tbl_jual')
+            ->where('no_faktur', $no_faktur)
+            ->delete();
+    }
+
+    public function getPesananByNoFaktur($no_faktur)
+    {
+        return $this->db->table('tbl_jual')
+            ->where('no_faktur', $no_faktur)
+            ->get()
+            ->getRowArray();
+    }
 }

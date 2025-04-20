@@ -1,15 +1,19 @@
 <div class="col-12">
         <b>Tanggal:</b> <?= $tgl ?>
     <table class="table table-bordered table-striped">
-    <tr class="text-center bg-cyan">
+    <tr>
         <th>No</th>
         <th>Kode</th>
         <th>Nama Produk</th>
-        <th>Harga Treat</th>
-        <th>Harga Akhir</th>
+        <th>No Faktur</th>
+        <th>Nama</th>
+        <th>No_hp</th>
+        <th>Deskripsi</th>
+        <th>Treat</th>
+        <th>Akhir</th>
         <th>QTY</th>
-        <th>Total Harga</th>
-        <th>Total Untung</th>
+        <th>Harga</th>
+        <th>Untung</th>
     </tr>
     <?php $no = 1;
     foreach ($dataharian as $key => $value) {
@@ -20,6 +24,10 @@
             <td class="text-center"><?= $no++ ?></td>
             <td class="text-center"><?= $value['kode_produk'] ?></td>
             <td><?= $value['nama_produk'] ?></td>
+            <td><?= $value['no_faktur'] ?></td>
+            <td><?= $value['nama_konsumen'] ?></td>
+            <td><?= $value['no_hp'] ?></td>
+            <td><?= $value['deskripsi'] ?></td>
             <td class="text-right">Rp. <?= number_format($value['modal'], 0) ?></td>
             <td class="text-right">Rp. <?= number_format($value['harga'], 0) ?></td>
             <td class="text-center"><?= $value['qty'] ?></td>

@@ -15,7 +15,17 @@ class ModelLaporan extends Model
             ->select('tbl_produk.nama_produk')
             ->select('tbl_rinci_jual.modal')
             ->select('tbl_rinci_jual.harga')
-            ->groupBy('tbl_rinci_jual.kode_produk')
+            ->select('tbl_rinci_jual.no_faktur')
+            ->select('tbl_rinci_jual.nama_konsumen')
+            ->select('tbl_rinci_jual.no_hp')
+            ->select('tbl_jual.tgl_jual as tanggal_masuk')
+            ->select('tbl_rinci_jual.tanggal_selesai')
+            ->select('tbl_rinci_jual.deskripsi')
+            ->groupBy(['tbl_rinci_jual.kode_produk', 'tbl_produk.nama_produk', 
+            'tbl_rinci_jual.modal', 'tbl_rinci_jual.harga',
+            'tbl_rinci_jual.no_faktur', 'tbl_jual.nama_konsumen',
+            'tbl_jual.tgl_jual', 'tbl_jual.tanggal_selesai',
+            'tbl_rinci_jual.deskripsi'])
             ->selectSum('tbl_rinci_jual.qty')
             ->selectSum('tbl_rinci_jual.total_harga')
             ->selectSum('tbl_rinci_jual.untung')

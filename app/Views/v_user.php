@@ -31,7 +31,8 @@
                         <th>Email</th>
                         <th>Password</th>
                         <th>Level</th>
-                        <th width="100px">Aksi</th>
+                        <th>Status</th>
+                        <th width="150px">Aksi</th>
                     </tr>
                     </thead>
                     <tbody>
@@ -50,10 +51,23 @@
                                 <?php } ?>
                             </td>
                             <td class="text-center">
+                                <?php if(isset($value['status']) && $value['status'] == 1) { ?>
+                                    <span class="badge bg-success">Active</span>
+                                <?php } else { ?>
+                                    <span class="badge bg-danger">Inactive</span>
+                                <?php } ?>
+                            </td>
+                            <td class="text-center">
                                 <button class="btn btn-warning btn-sm btn-flat" data-toggle="modal" data-target="#edit-data<?= $value['id_user'] ?>"><i class="fas fa-pencil-alt"></i></button>
                                 <button class="btn btn-danger btn-sm btn-flat" data-toggle="modal" data-target="#delete-data<?= $value['id_user'] ?>"><i class="fas fa-trash"></i></button>
 
-                            </td>
+                                <?php if(isset($value['status']) && $value['status'] == 1) { ?>
+                                    <a href="<?= base_url('User/changeStatus/'.$value['id_user'].'/0') ?>" class="btn btn-dark btn-sm btn-flat" title="Nonaktifkan User"><i class="fas fa-toggle-on"></i></a>
+                                    
+                                <?php } else { ?>
+                                    <a href="<?= base_url('User/changeStatus/'.$value['id_user'].'/1') ?>" class="btn btn-success btn-sm btn-flat" title="Aktifkan User"><i class="fas fa-toggle-off"></i></a>
+                                <?php } ?>
+                            </td>                          
                         </tr>
                     <?php } ?>
                     </tbody>
@@ -98,7 +112,15 @@
                 <option value="1">Admin</option>
                 <option value="2" selected>User</option>
                 </select>
-              </div> 
+              </div>
+
+              <div class="form-group">
+                <label for="">Status</label>
+                <select name="status" class="form-control">
+                  <option value="1" selected>Active</option>
+                  <option value="0">Inactive</option>
+                </select>
+              </div>
 
             </div>
             <div class="modal-footer justify-content-between">
@@ -147,6 +169,14 @@
                 <select name="level" class="form-control">
                 <option value="1" <?= $value['level'] == 1 ? 'Selected' :'' ?>>Admin</option>
                 <option value="2" <?= $value['level'] == 2 ? 'Selected' :'' ?>>User</option>
+                </select>
+              </div>
+
+              <div class="form-group">
+                <label for="">Status</label>
+                <select name="status" class="form-control">
+                  <option value="1" <?= (isset($value['status']) && $value['status'] == 1) ? 'Selected' : '' ?>>Active</option>
+                  <option value="0" <?= (isset($value['status']) && $value['status'] == 0) ? 'Selected' : '' ?>>Inactive</option>
                 </select>
               </div>
 

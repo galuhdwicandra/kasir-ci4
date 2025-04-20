@@ -78,6 +78,7 @@
                 data: {
                     bulan: bulan,
                     tahun: tahun,
+                    <?= csrf_token() ?>: '<?= csrf_hash() ?>'
                 },
                 dataType: "JSON",
                 success: function(response) {

@@ -27,6 +27,9 @@ class Penjualan extends BaseController
             'cart' => $cart->contents(),
             'grand_total' => $cart->total(),
             'produk' => $this->ModelPenjualan->AllProduk(),
+            'nama_konsumen' => $jual['nama_konsumen'] ?? '',
+            'no_hp' => $jual['no_hp'] ?? '',
+            'deskripsi' => $jual['deskripsi'] ?? '',
         ];
         return view('v_penjualan', $data);
     }
@@ -65,9 +68,9 @@ class Penjualan extends BaseController
             'price'   => $this->request->getPost('harga_akhir'),
             'name'    => $this->request->getPost('nama_produk'),
             'options' => array(
-            'nama_kategori' => $this->request->getPost('nama_kategori'),
-            'nama_satuan' => $this->request->getPost('nama_satuan'),
-            'modal' => $this->request->getPost('harga_treat'),
+                'nama_kategori' => $this->request->getPost('nama_kategori'),
+                'nama_satuan' => $this->request->getPost('nama_satuan'),
+                'modal' => $this->request->getPost('harga_treat'),
             )
         ));
         return redirect()->to(base_url('penjualan'));
@@ -96,12 +99,27 @@ class Penjualan extends BaseController
 
     public function SimpanTransaksi()
     {
+        // Inisialisasi variabel untuk path gambar
+        $gambar_before_path = null;
+
         $cart = \Config\Services::cart();
         $produk = $cart->contents();
-        $no_faktur = $this->ModelPenjualan->NoFaktur();
+        $no_faktur = $this->request->getPost('no_faktur');
         $dibayar = str_replace(",", "", $this->request->getPost('dibayar'));
         $kembalian = str_replace(",", "", $this->request->getPost('kembalian'));
-        
+        $nama_konsumen = $this->request->getPost('nama_konsumen');
+        $no_hp = $this->request->getPost('no_hp');
+        $tanggal_masuk   = $this->request->getPost('tanggal_masuk');
+        $tanggal_selesai = $this->request->getPost('tanggal_selesai');
+        $deskripsi       = $this->request->getPost('deskripsi');
+        // Upload gambar before jika ada
+        $gambar_before = $this->request->getFile('gambar_before');
+        if ($gambar_before && $gambar_before->isValid() && !$gambar_before->hasMoved()) {
+            $newBeforeName = $gambar_before->getRandomName();
+            $gambar_before->move(ROOTPATH . 'public/uploads/before', $newBeforeName);
+            $gambar_before_path = 'uploads/before/' . $newBeforeName;
+        }
+
         $statusPembayaran = $this->request->getPost('status_pembayaran');
         $allowedStatus = ['pending', 'success', 'failed'];
         if (!in_array($statusPembayaran, $allowedStatus)) {
@@ -112,6 +130,11 @@ class Penjualan extends BaseController
         foreach ($produk as $key => $value) {
             $data = [
                 'no_faktur' => $no_faktur,
+                'nama_konsumen' => $nama_konsumen,
+                'no_hp' => $no_hp,
+                'tanggal_masuk' => $tanggal_masuk,
+                'tanggal_selesai' => $tanggal_selesai,
+                'deskripsi' => $deskripsi,
                 'kode_produk' => $value['id'],
                 'harga' => $value['price'],
                 'modal' => $value['options']['modal'],
@@ -125,6 +148,12 @@ class Penjualan extends BaseController
         // simpan ke tabel jual
         $data = [
             'no_faktur' => $no_faktur,
+            'nama_konsumen' => $nama_konsumen,
+            'no_hp'    => $no_hp,
+            'tanggal_masuk' => $tanggal_masuk,
+            'tanggal_selesai' => $tanggal_selesai,
+            'deskripsi' => $deskripsi,
+            'gambar_before' => $gambar_before_path,
             'tgl_jual' => date('Y-m-d'),
             'jam' => date('H:i:s'),
             'grand_total' => $cart->total(),
@@ -146,7 +175,8 @@ class Penjualan extends BaseController
         return redirect()->to('/penjualan');
     }
 
-    public function InsertJual() {
+    public function InsertJual()
+    {
         $statusPembayaran = $this->request->getPost('status_pembayaran');
         $data = [
             'no_faktur' => $this->ModelPenjualan->NoFaktur(),
@@ -155,12 +185,11 @@ class Penjualan extends BaseController
             'total_harga' => $this->request->getPost('total_harga'),
             'status_pembayaran' => $statusPembayaran, // Nilai default untuk status pembayaran
         ];
-    
+
         // Simpan data ke tabel tbl_jual
         $this->ModelPenjualan->InsertJual($data);
-    
+
         // Redirect atau beri pesan sukses
         return redirect()->to('/penjualan')->with('success', 'Transaksi berhasil disimpan dengan status pembayaran pending.');
     }
-    
 }

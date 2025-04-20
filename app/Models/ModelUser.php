@@ -33,8 +33,17 @@ class ModelUser extends Model
         return $this->db->table('tbl_user')
         ->where([
             'email' => $email,
-            'password' => $password])
+            'password' => $password,
+            'status' => '1'
+            ])
         ->get()
         ->getRowArray();
     }
+
+    public function updateStatus($id_user, $status){
+        return $this->db->table('tbl_user')
+            ->where('id_user', $id_user)
+            ->update(['status' => $status]);
+    }
+    
 }

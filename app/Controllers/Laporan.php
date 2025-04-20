@@ -45,19 +45,25 @@ class Laporan extends BaseController
     }
 
     public function ViewLaporanHarian(){
-        $tgl = $this->request->getPost('tgl');
-        $data = [
-            'judul' => 'Laporan Harian Penjualan',
-            'dataharian' => $this->ModelLaporan->DataHarian($tgl),
-            'web' => $this->ModelAdmin->DetailData(),
-            'tgl' => $tgl,
-        ];
+        try {
+            $tgl = $this->request->getPost('tgl');
+            log_message('debug', 'Received date: ' . $tgl);
+            $data = [
+                'judul' => 'Laporan Harian Penjualan',
+                'dataharian' => $this->ModelLaporan->DataHarian($tgl),
+                'web' => $this->ModelAdmin->DetailData(),
+                'tgl' => $tgl,
+            ];
 
-        $response = [
-            'data' => view('laporan/v_tabel_laporan_harian',$data)
-        ];
+            $response = [
+                'data' => view('laporan/v_tabel_laporan_harian',$data)
+            ];
 
-        echo json_encode($response);
+            echo json_encode($response);
+        } catch (\Exception $e) {
+            log_message('error', $e->getMessage());
+            echo json_encode(['error' => $e->getMessage()]);
+        }
         // echo dd($this->ModelLaporan->DataHarian($tgl));
     }
 
